@@ -1,0 +1,1 @@
+Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out

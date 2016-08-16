@@ -1,0 +1,6 @@
+Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out
+01-02-2017, Dummy, รายการ RN, 1, RN, RN, 0.0, 0.0
+01-02-2017, Dummy, รายการ RN, 2, RN โป๊ว แตง, RN โป๊ว แตง, 0.0, 0.0
+01-02-2017, Dummy, รายการ RN, 3, RN โป๊ว เปิ้ล, RN โป๊ว เปิ้ล, 0.0, 0.0
+01-02-2017, Dummy, รายการ RN, 4, เปิ้ล โป๊ว RN, เปิ้ล โป๊ว RN, 0.0, 0.0
+01-02-2017, Dummy, รายการ RN, 5, คชจ, คชจ, 0.0, 0.0

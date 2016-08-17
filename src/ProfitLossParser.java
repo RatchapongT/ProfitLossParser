@@ -5,6 +5,7 @@
 import java.io.*;
 import java.util.*;
 
+import org.apache.poi.ddf.EscherColorRef;
 import org.apache.poi.ss.usermodel.*;
 
 public class ProfitLossParser {
@@ -23,109 +24,132 @@ public class ProfitLossParser {
         return true;
     }
 
+    public static boolean isNumber(Sheet currentSheet, int row, int offset) {
+        try {
+            double number = currentSheet.getRow(row).getCell(offset).getNumericCellValue();
+            return isNumeric(Double.toString(number));
+        } catch (Exception ioe) {
+            return false;
+        }
+    }
+
     public static String padding(String date) {
         return "00".substring(date.length()) + date;
     }
 
     public static Cell getCell(Sheet currentSheet, int row, int offset, String mode, String type, File file) {
         if (currentSheet.getRow(row).getCell(offset) == null) {
-            System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ col " + offset + " on row " + row);
+
+            //System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ col " + offset + " on row " + row);
+
         }
         return currentSheet.getRow(row).getCell(offset);
     }
 
-    public List<String> processFiles(String path, String mode, String type, int offset) {
+    public List<String> processFiles(String managerNickname, String path, String mode, String type, int offset) {
         List<String> rows = new ArrayList<>();
         File folder = new File(path);
+        int row = 0;
         try {
-            System.out.println("------ [" + mode + "](" + type + ") " + "Opening Folder" + path + " with " + folder.listFiles().length + " files...------");
+            System.out.println("------ [" + mode + "](" + type + ") " + "Opening Folder" + path + " with " + (folder.listFiles() == null ? 0 : folder.listFiles().length) + " files...------");
+            if (folder.listFiles() != null) {
+                for (File file : folder.listFiles()) {
 
-            for (File file : folder.listFiles()) {
-                Workbook workbook = WorkbookFactory.create(file);
+                    Workbook workbook = WorkbookFactory.create(file);
+                    Sheet currentSheet = workbook.getSheetAt(0);
+                    String[] dateArray = file.getName().split("-");
+                    String date = padding(dateArray[0]) + "-" + padding(dateArray[1]) + "-" + Integer.toString(Integer.parseInt(dateArray[2].substring(0, 2)) + 1957);
 
-                Sheet currentSheet = workbook.getSheetAt(0);
-                String[] dateArray = file.getName().split("-");
-                String date = padding(dateArray[0]) + "-" + padding(dateArray[1]) + "-" + Integer.toString(Integer.parseInt(dateArray[2].substring(0, 2)) + 1958);
-
-                int row = 0;
-                String managerNickname = "Dummy";
-                String workerNickname = "";
-                if (verboseMode) {
-                    System.out.print("[" + mode + "](" + type + ") " + "Begin Parsing " + file.getName() + " with " + currentSheet.getLastRowNum() + " rows...");
-                }
-                int pre = 0;
-                while (row < currentSheet.getLastRowNum()) {
-                    while (row < currentSheet.getLastRowNum() && (currentSheet.getRow(row) == null || currentSheet.getRow(row).getCell(offset) == null || !isNumeric(currentSheet.getRow(row).getCell(offset).toString()))) {
-                        row++;
+                    row = 0;
+                    String workerNickname = "";
+                    if (verboseMode) {
+                        System.out.print("[" + mode + "](" + type + ") " + "Begin Parsing " + file.getName() + " with " + currentSheet.getLastRowNum() + " rows...");
                     }
-
+                    int pre = 0;
                     while (row < currentSheet.getLastRowNum()) {
-                        if (currentSheet.getRow(row) == null) {
-                            if (debugMode) {
-                                System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ row " + row);
-                            }
-                        } else if (getCell(currentSheet, row, offset, mode, type, file) == null) {
-                            if (debugMode) {
-                                System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ col " + offset + " on row " + row);
-                            }
-                        } else if (isNumeric(getCell(currentSheet, row, offset, mode, type, file).toString())) {
-                            int number = (int) currentSheet.getRow(row).getCell(offset).getNumericCellValue();
-                            if (number == 1) {
-                                pre = 1;
-                                workerNickname = getCell(currentSheet, row - 1, offset, mode, type, file).toString();
-                                if (workerNickname.indexOf("No") > -1) {
-                                    workerNickname = getCell(currentSheet, row - 2, offset, mode, type, file).toString();
-                                }
-                            }
-                            if (number - pre != 1 && number != 1) {
-                                System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Skipped@ col " + offset + " on row " + row);
-                            }
-                            pre = number;
-                            boolean partnerMode = workerNickname.indexOf("รายการ") > -1;
-                            if (type.equals("T")) {
-                                String externalPartyNickname = getCell(currentSheet, row, offset + 1, mode, type, file).toString();
-                                Cell cell = currentSheet.getRow(row).getCell(offset + 2);
-                                String externalPartyUsername = (cell == null || cell.toString().equals("")) ? externalPartyNickname : cell.toString();
-                                double moneyIn = getCell(currentSheet, row, offset + 4, mode, type, file).getNumericCellValue();
-                                double moneyOut = getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
-
-                                if (mode.equals("Customer") && !partnerMode) {
-                                    if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                        rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
-                                    }
-                                }
-                                if (mode.equals("Partner") && partnerMode) {
-                                    if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                        rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
-                                    }
-                                }
-                            }
-                            if (type.equals("M")) {
-                                String externalPartyNickname = getCell(currentSheet, row, offset + 1, mode, type, file).toString();
-                                String externalPartyUsername = externalPartyNickname;
-                                double moneyIn = getCell(currentSheet, row, offset + 3, mode, type, file).getNumericCellValue();
-                                double moneyOut = getCell(currentSheet, row, offset + 4, mode, type, file).getNumericCellValue();
-                                if (mode.equals("Customer") && !partnerMode) {
-                                    if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                        rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
-                                    }
-                                }
-                                if (mode.equals("Partner") && partnerMode) {
-                                    if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                        rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
-                                    }
-                                }
-                            }
+                        while (row < currentSheet.getLastRowNum() && (currentSheet.getRow(row) == null || currentSheet.getRow(row).getCell(offset) == null || currentSheet.getRow(row).getCell(offset).toString().equals("") || !isNumber(currentSheet, row, offset))) {
+                            row++;
                         }
-                        row++;
+                        while (row < currentSheet.getLastRowNum()) {
+
+                            if (currentSheet.getRow(row) == null) {
+                                if (debugMode) {
+                                    System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ row " + row);
+                                }
+                            } else if (getCell(currentSheet, row, offset, mode, type, file) == null) {
+                                if (debugMode) {
+                                    System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ col " + offset + " on row " + row);
+                                }
+                            } else if (isNumber(currentSheet, row, offset)) {
+                                int number = (int) currentSheet.getRow(row).getCell(offset).getNumericCellValue();
+                                if (number == 0) {
+                                    row++;
+                                    continue;
+                                }
+                                if (number == 1) {
+                                    pre = 1;
+                                    workerNickname = "";
+                                    if (getCell(currentSheet, row - 1, offset, mode, type, file) == null || getCell(currentSheet, row - 1, offset, mode, type, file).toString().equals("")) {
+                                        workerNickname = getCell(currentSheet, row - 1, offset - 1, mode, type, file).toString();
+                                    } else {
+                                        workerNickname = getCell(currentSheet, row - 1, offset, mode, type, file).toString();
+                                        if (workerNickname.indexOf("No") > -1 || workerNickname.indexOf("NO") > -1) {
+                                            workerNickname = getCell(currentSheet, row - 2, offset, mode, type, file).toString();
+                                        }
+                                    }
+                                    if (workerNickname.equals("")) {
+                                        workerNickname = getCell(currentSheet, row - 1, offset + 4, mode, type, file).toString();
+                                    }
+                                    if (workerNickname.equals("")) {
+                                        System.out.println("WTF" + "@ col " + offset + " on row " + row + " Number: " + number + ", Pre: " + pre);
+                                    }
+                                }
+                                //if (workerNickname.equals("ซื้อ")) break;
+                                if (number - pre != 1 && number != 1) {
+                                    //System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Skipped@ col " + offset + " on row " + row + " Number: " + number + ", Pre: " + pre);
+                                }
+                                pre = number;
+                                boolean partnerMode = workerNickname.indexOf("โป๊ว") > -1;
+
+                                if (getCell(currentSheet, row, offset + 1, mode, type, file) != null) {
+
+                                    String externalPartyNickname = getCell(currentSheet, row, offset + 1, mode, type, file).toString();
+                                    Cell cell = currentSheet.getRow(row).getCell(offset + 2);
+                                    String externalPartyUsername = (cell == null || cell.toString().equals("")) ? externalPartyNickname : cell.toString();
+
+                                    try {
+                                        double moneyIn = (getCell(currentSheet, row, offset + 4, mode, type, file) == null || getCell(currentSheet, row, offset + 4, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 4, mode, type, file).getNumericCellValue();
+                                        double moneyOut = (getCell(currentSheet, row, offset + 5, mode, type, file) == null || getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
+
+                                        if (mode.equals("Customer") && !partnerMode) {
+                                            if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
+//                                                if (date.equals("10-01-2015") && workerNickname.equals("ชิง") && number == 5) {
+//                                                    System.out.println(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+//                                                }
+                                                rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                            }
+                                        }
+                                        if (mode.equals("Partner") && partnerMode) {
+                                            if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
+                                                rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                            }
+                                        }
+                                    } catch (Exception ioe) {
+                                        System.out.println("EXCEPTION!!!! [" + mode + "](" + type + ") " + file.getName() + " EXCEPTION@ col " + offset + " on row " + row);
+                                    }
+                                }
+                            }
+                            row++;
+                        }
                     }
-                }
-                if (verboseMode) {
-                    System.out.println("Done: " + file.getName());
+                    if (verboseMode) {
+                        System.out.println("Done: " + file.getName());
+                    }
                 }
             }
         } catch (Exception ioe) {
             ioe.printStackTrace();
+
         }
         return rows;
     }
@@ -152,25 +176,43 @@ public class ProfitLossParser {
     public static void main(String[] args) {
         ProfitLossParser profitLossParser = new ProfitLossParser();
         String cHeader = "Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out\n";
-        String pHeader = "Date, Manager Nickname, Worker Nickname, Number, Partner Nickname, Partner ID, Money In, Money Out\n";
-        List<String> first_mPartnerProcessFiles = profitLossParser.processFiles("./Input/Malay", "Partner", "M", 0);
-        List<String> first_mCustomerProcessFiles = profitLossParser.processFiles("./Input/Malay", "Customer", "M", 0);
-        List<String> first_tPartnerProcessFiles = profitLossParser.processFiles("./Input/Thai", "Partner", "T", 0);
-        List<String> first_tCustomerProcessFiles = profitLossParser.processFiles("./Input/Thai", "Customer", "T", 0);
+        String pHeader = "Date, Manager Nickname, Worker Nickname, Number, Partner Nickname, Partner ID, Money Out, Money In\n";
+        List<String> first_mPartnerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Partner", "M", 1);
+        List<String> first_mCustomerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Customer", "M", 1);
+         List<String> first_mPartnerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Partner", "M", 1);
+        List<String> first_mCustomerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Customer", "M", 1);
+        List<String> first_tPartnerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Partner", "T", 0);
+        List<String> first_tCustomerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Customer", "T", 0);
 
-        List<String> second_mPartnerProcessFiles = profitLossParser.processFiles("./Input/Malay", "Partner", "M", 6);
-        List<String> second_mCustomerProcessFiles = profitLossParser.processFiles("./Input/Malay", "Customer", "M", 6);
-        List<String> second_tPartnerProcessFiles = profitLossParser.processFiles("./Input/Thai", "Partner", "T", 7);
-        List<String> second_tCustomerProcessFiles = profitLossParser.processFiles("./Input/Thai", "Customer", "T", 7);
+        List<String> second_mPartnerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Partner", "M", 8);
+        List<String> second_mCustomerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Customer", "M", 8);
+        List<String> second_mPartnerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Partner", "M", 8);
+        List<String> second_mCustomerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Customer", "M", 8);
+        List<String> second_tPartnerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Partner", "T", 7);
+        List<String> second_tCustomerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Customer", "T", 7);
 
-        first_mPartnerProcessFiles.addAll(second_mPartnerProcessFiles);
-        first_mCustomerProcessFiles.addAll(second_mCustomerProcessFiles);
-        first_tPartnerProcessFiles.addAll(second_tPartnerProcessFiles);
-        first_tCustomerProcessFiles.addAll(second_tCustomerProcessFiles);
+        List<String> malayCustomer = new ArrayList<>();
+        List<String> malayPartner = new ArrayList<>();
+        List<String> thaiCustomer = new ArrayList<>();
+        List<String> thaiPartner = new ArrayList<>();
+        malayPartner.addAll(first_mPartnerProcessFilesP1);
+        malayPartner.addAll(first_mPartnerProcessFilesP2);
+        malayPartner.addAll(second_mPartnerProcessFilesP1);
+        malayPartner.addAll(second_mPartnerProcessFilesP2);
 
-        profitLossParser.writeFile(first_mPartnerProcessFiles, "Malay", "Partner", cHeader);
-        profitLossParser.writeFile(first_mCustomerProcessFiles, "Malay", "Customer", pHeader);
-        profitLossParser.writeFile(first_tPartnerProcessFiles, "Thai", "Partner", cHeader);
-        profitLossParser.writeFile(first_tCustomerProcessFiles, "Thai", "Customer", pHeader);
+        malayCustomer.addAll(first_mCustomerProcessFilesP1);
+        malayCustomer.addAll(first_mCustomerProcessFilesP2);
+         malayCustomer.addAll(second_mCustomerProcessFilesP1);
+         malayCustomer.addAll(second_mCustomerProcessFilesP2);
+
+         thaiPartner.addAll(first_tPartnerProcessFiles);
+         thaiPartner.addAll(second_tPartnerProcessFiles);
+        thaiCustomer.addAll(first_tCustomerProcessFiles);
+        thaiCustomer.addAll(second_tCustomerProcessFiles);
+
+        profitLossParser.writeFile(malayPartner, "Malay", "Partner", pHeader);
+        profitLossParser.writeFile(malayCustomer, "Malay", "Customer", cHeader);
+        profitLossParser.writeFile(thaiPartner, "Thai", "Partner", pHeader);
+        profitLossParser.writeFile(thaiCustomer, "Thai", "Customer", cHeader);
     }
 }

@@ -57,14 +57,17 @@ public class ProfitLossParser {
 
                     Workbook workbook = WorkbookFactory.create(file);
                     Sheet currentSheet = workbook.getSheetAt(0);
+                    if (currentSheet.getLastRowNum() < 10) {
+                        currentSheet = workbook.getSheetAt(1);
+                    }
                     String[] dateArray = file.getName().split("-");
                     String date = padding(dateArray[0]) + "-" + padding(dateArray[1]) + "-" + Integer.toString(Integer.parseInt(dateArray[2].substring(0, 2)) + 1957);
-
                     row = 0;
                     String workerNickname = "";
                     if (verboseMode) {
                         System.out.print("[" + mode + "](" + type + ") " + "Begin Parsing " + file.getName() + " with " + currentSheet.getLastRowNum() + " rows...");
                     }
+
                     int pre = 0;
                     while (row < currentSheet.getLastRowNum()) {
                         while (row < currentSheet.getLastRowNum() && (currentSheet.getRow(row) == null || currentSheet.getRow(row).getCell(offset) == null || currentSheet.getRow(row).getCell(offset).toString().equals("") || !isNumber(currentSheet, row, offset))) {
@@ -118,8 +121,30 @@ public class ProfitLossParser {
                                     String externalPartyUsername = (cell == null || cell.toString().equals("")) ? externalPartyNickname : cell.toString();
 
                                     try {
-                                        double moneyIn = (getCell(currentSheet, row, offset + 4, mode, type, file) == null || getCell(currentSheet, row, offset + 4, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 4, mode, type, file).getNumericCellValue();
-                                        double moneyOut = (getCell(currentSheet, row, offset + 5, mode, type, file) == null || getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
+                                        Double mIn = null;
+                                        Double mOut = null;
+                                        double moneyIn = 0.0;
+                                        double moneyOut = 0.0;
+                                        try {
+                                            mIn = Double.parseDouble(getCell(currentSheet, row, offset + 4, mode, type, file).toString().trim());
+                                        }  catch (NumberFormatException e) {
+                                            mIn = null;
+                                        }
+                                        try {
+                                            mOut = Double.parseDouble(getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim());
+                                        }  catch (NumberFormatException e) {
+                                            mOut = null;
+                                        }
+                                        if (mIn == null) {
+                                            moneyIn = (getCell(currentSheet, row, offset + 4, mode, type, file) == null || getCell(currentSheet, row, offset + 4, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 4, mode, type, file).getNumericCellValue();
+                                        } else {
+                                            moneyIn = mIn;
+                                        }
+                                        if (mOut == null) {
+                                            moneyOut= (getCell(currentSheet, row, offset + 5, mode, type, file) == null || getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
+                                        } else {
+                                            moneyOut = mOut;
+                                        }
 
                                         if (mode.equals("Customer") && !partnerMode) {
                                             if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
@@ -131,7 +156,9 @@ public class ProfitLossParser {
                                         }
                                         if (mode.equals("Partner") && partnerMode) {
                                             if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                                rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                                if (!externalPartyNickname.equals("ปีนังเงินไทย")) {
+                                                    rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                                }
                                             }
                                         }
                                     } catch (Exception ioe) {
@@ -174,12 +201,25 @@ public class ProfitLossParser {
     }
 
     public static void main(String[] args) {
-        ProfitLossParser profitLossParser = new ProfitLossParser();
         String cHeader = "Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out\n";
         String pHeader = "Date, Manager Nickname, Worker Nickname, Number, Partner Nickname, Partner ID, Money Out, Money In\n";
+        ProfitLossParser profitLossParser = new ProfitLossParser();
+//        List<String> first_customerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Customer", "M", 1);
+//        List<String> first_partnerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Partner", "M", 1);
+//        List<String> second_customerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Customer", "M", 8);
+//        List<String> second_partnerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Partner", "M", 8);
+//        List<String> customerTest = new ArrayList<>();
+//        List<String> partnerTest = new ArrayList<>();
+//        customerTest.addAll(first_customerTest);
+//        customerTest.addAll(second_customerTest);
+//        partnerTest.addAll(first_partnerTest);
+//        partnerTest.addAll(second_partnerTest);
+//        profitLossParser.writeFile(partnerTest, "Malay", "Partner-TEST", pHeader);
+//        profitLossParser.writeFile(customerTest, "Malay", "Customer-TEST", cHeader);
+
         List<String> first_mPartnerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Partner", "M", 1);
         List<String> first_mCustomerProcessFilesP1 = profitLossParser.processFiles("MalayP1", "./Input/MalayP1", "Customer", "M", 1);
-         List<String> first_mPartnerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Partner", "M", 1);
+        List<String> first_mPartnerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Partner", "M", 1);
         List<String> first_mCustomerProcessFilesP2 = profitLossParser.processFiles("MalayP2", "./Input/MalayP2", "Customer", "M", 1);
         List<String> first_tPartnerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Partner", "T", 0);
         List<String> first_tCustomerProcessFiles = profitLossParser.processFiles("Thai", "./Input/Thai", "Customer", "T", 0);
@@ -202,11 +242,11 @@ public class ProfitLossParser {
 
         malayCustomer.addAll(first_mCustomerProcessFilesP1);
         malayCustomer.addAll(first_mCustomerProcessFilesP2);
-         malayCustomer.addAll(second_mCustomerProcessFilesP1);
-         malayCustomer.addAll(second_mCustomerProcessFilesP2);
+        malayCustomer.addAll(second_mCustomerProcessFilesP1);
+        malayCustomer.addAll(second_mCustomerProcessFilesP2);
 
-         thaiPartner.addAll(first_tPartnerProcessFiles);
-         thaiPartner.addAll(second_tPartnerProcessFiles);
+        thaiPartner.addAll(first_tPartnerProcessFiles);
+        thaiPartner.addAll(second_tPartnerProcessFiles);
         thaiCustomer.addAll(first_tCustomerProcessFiles);
         thaiCustomer.addAll(second_tCustomerProcessFiles);
 

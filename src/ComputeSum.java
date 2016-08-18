@@ -86,15 +86,15 @@ public class ComputeSum {
             bufferedReader.readLine();
             while ((sCurrentLine = bufferedReader.readLine()) != null) {
                 String[] arr = sCurrentLine.split(",");
-                String[] dates = arr[0].trim().split("-");
+                String[] dates = arr[1].trim().split("-");
                 String date = dates[2] + "-" + dates[1] + "-" + dates[0];
-                String manager = arr[1].trim();
-                String worker = arr[2].trim();
-                String number = arr[3].trim();
-                String externalNickname = arr[4].trim();
-                String externalUsername = arr[5].trim();
-                String moneyOut = arr[6].trim();
-                String moneyIn = arr[7].trim();
+                String manager = arr[2].trim();
+                String worker = arr[3].trim();
+                String number = arr[4].trim();
+                String externalNickname = arr[5].trim();
+                String externalUsername = arr[6].trim();
+                String moneyOut = arr[7].trim();
+                String moneyIn = arr[8].trim();
                 if (!map.containsKey(date)) {
                     map.put(date, 0.0);
                 }
@@ -139,15 +139,15 @@ public class ComputeSum {
             while ((sCurrentLine = bufferedReader.readLine()) != null) {
                 String[] arr = sCurrentLine.split(",");
 
-                String[] dates = arr[0].trim().split("-");
+                String[] dates = arr[1].trim().split("-");
                 String date = dates[2] + "-" + dates[1] + "-" + dates[0];
-                String manager = arr[1].trim();
-                String worker = arr[2].trim();
-                String number = arr[3].trim();
-                String externalNickname = arr[4].trim();
-                String externalUsername = arr[5].trim();
-                String moneyIn = arr[6].trim();
-                String moneyOut = arr[7].trim();
+                String manager = arr[2].trim();
+                String worker = arr[3].trim();
+                String number = arr[4].trim();
+                String externalNickname = arr[5].trim();
+                String externalUsername = arr[6].trim();
+                String moneyIn = arr[7].trim();
+                String moneyOut = arr[8].trim();
                 customerSet.add(externalNickname + "\t" + externalUsername);
                 managerSet.add(manager);
                 workerSet.add(worker);
@@ -275,22 +275,22 @@ public class ComputeSum {
                     rn2.put(date, rn2.get(date) + moneyIn - moneyOut);
                 }
             }
-//            if (!queryMode) {
-//                System.out.println("---------------ALL------------------");
-//            }
-//            List<String> list = new ArrayList<>(map.keySet());
-//            Collections.sort(list);
-//            if (mode.equals("Malay")) {
-//                if (!queryMode) {
-//                    System.out.println("DATE" + "\t" + "WHANG" + "\t" + "MAUY" + "\t" + "ALL w/o RN" + "\t" + "WHANG RN" + "\t" + "MUAY RN" + "\t" + "ALL w/ RN");
-//                }
-//            }
-//            for (String date : list) {
-//                if (!queryMode || queryDate.equals(date)) {
-//                    System.out.println(date + "\t" + map1.get(date) + "\t" + map2.get(date) + "\t" + map.get(date) + "\t" + rn1.get(date) + "\t" + rn2.get(date) + "\t" +
-//                            (rn2.get(date) + rn1.get(date) + map.get(date)));
-//                }
-//            }
+            if (!queryMode) {
+                System.out.println("---------------ALL------------------");
+            }
+            List<String> list = new ArrayList<>(map.keySet());
+            Collections.sort(list);
+            if (mode.equals("Malay")) {
+                if (!queryMode) {
+                    System.out.println("DATE" + "\t" + "WHANG" + "\t" + "MAUY" + "\t" + "ALL w/o RN" + "\t" + "WHANG RN" + "\t" + "MUAY RN" + "\t" + "ALL w/ RN");
+                }
+            }
+            for (String date : list) {
+                if (!queryMode || queryDate.equals(date)) {
+                    System.out.println(date + "\t" + map1.get(date) + "\t" + map2.get(date) + "\t" + map.get(date) + "\t" + rn1.get(date) + "\t" + rn2.get(date) + "\t" +
+                            (rn2.get(date) + rn1.get(date) + map.get(date)));
+                }
+            }
             List<String> partnerList = new ArrayList<>(partnerSet);
             List<String> customerList = new ArrayList<>(customerSet);
             List<String> managerList = new ArrayList<>(managerSet);
@@ -299,27 +299,27 @@ public class ComputeSum {
             Collections.sort(customerList);
             Collections.sort(managerList);
             Collections.sort(workerList);
-            System.out.println("------------------------MANAGER------------------------");
-            for (String s : managerList) {
-                System.out.println(s);
-            }
-            System.out.println("------------------------WORKER------------------------");
-            for (String s : workerList) {
-                System.out.println(s);
-            }
-            System.out.println("------------------------CUSTOMER------------------------");
-
-            for (String s : customerList) {
-                for (String w : externalPartyOwner.get(s)) {
-                    System.out.println(w + "\t" + s);
-                }
-            }
-            System.out.println("------------------------PARTNER------------------------");
-            for (String s : partnerList) {
-                for (String w : externalPartyOwner.get(s)) {
-                    System.out.println(w + "\t" + s);
-                }
-            }
+//            System.out.println("------------------------MANAGER------------------------");
+//            for (String s : managerList) {
+//                System.out.println(s);
+//            }
+//            System.out.println("------------------------WORKER------------------------");
+//            for (String s : workerList) {
+//                System.out.println(s);
+//            }
+//            System.out.println("------------------------CUSTOMER------------------------");
+//
+//            for (String s : customerList) {
+//                for (String w : externalPartyOwner.get(s)) {
+//                    System.out.println(w + "\t" + s);
+//                }
+//            }
+//            System.out.println("------------------------PARTNER------------------------");
+//            for (String s : partnerList) {
+//                for (String w : externalPartyOwner.get(s)) {
+//                    System.out.println(w + "\t" + s);
+//                }
+//            }
 
             Set<String> globalCustomerSet = new HashSet<>();
             Set<String> globalPartnerSet = new HashSet<>();

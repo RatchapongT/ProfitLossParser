@@ -39,9 +39,7 @@ public class ProfitLossParser {
 
     public static Cell getCell(Sheet currentSheet, int row, int offset, String mode, String type, File file) {
         if (currentSheet.getRow(row).getCell(offset) == null) {
-
             //System.out.println("[" + mode + "](" + type + ") " + file.getName() + " Null@ col " + offset + " on row " + row);
-
         }
         return currentSheet.getRow(row).getCell(offset);
     }
@@ -104,8 +102,9 @@ public class ProfitLossParser {
                                         workerNickname = getCell(currentSheet, row - 1, offset + 4, mode, type, file).toString();
                                     }
                                     if (workerNickname.equals("")) {
-                                        System.out.println("WTF" + "@ col " + offset + " on row " + row + " Number: " + number + ", Pre: " + pre);
+                                        System.out.println("[" + mode + "](" + type + ") " + file.getName() + " WTF" + "@ col " + offset + " on row " + row + " Number: " + number + ", Pre: " + pre);
                                     }
+
                                 }
                                 //if (workerNickname.equals("ซื้อ")) break;
                                 if (number - pre != 1 && number != 1) {
@@ -127,12 +126,12 @@ public class ProfitLossParser {
                                         double moneyOut = 0.0;
                                         try {
                                             mIn = Double.parseDouble(getCell(currentSheet, row, offset + 4, mode, type, file).toString().trim());
-                                        }  catch (NumberFormatException e) {
+                                        } catch (NumberFormatException e) {
                                             mIn = null;
                                         }
                                         try {
                                             mOut = Double.parseDouble(getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim());
-                                        }  catch (NumberFormatException e) {
+                                        } catch (NumberFormatException e) {
                                             mOut = null;
                                         }
                                         if (mIn == null) {
@@ -141,23 +140,24 @@ public class ProfitLossParser {
                                             moneyIn = mIn;
                                         }
                                         if (mOut == null) {
-                                            moneyOut= (getCell(currentSheet, row, offset + 5, mode, type, file) == null || getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
+                                            moneyOut = (getCell(currentSheet, row, offset + 5, mode, type, file) == null || getCell(currentSheet, row, offset + 5, mode, type, file).toString().trim().equals("")) ? 0 : getCell(currentSheet, row, offset + 5, mode, type, file).getNumericCellValue();
                                         } else {
                                             moneyOut = mOut;
                                         }
-
                                         if (mode.equals("Customer") && !partnerMode) {
+
                                             if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-//                                                if (date.equals("10-01-2015") && workerNickname.equals("ชิง") && number == 5) {
-//                                                    System.out.println(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
-//                                                }
-                                                rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                                if (externalPartyNickname.equals("TEST")) {
+                                                    System.out.println("C, " + date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                                }
+
+                                                rows.add("C, " + date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + ", " + type + "\n");
                                             }
                                         }
                                         if (mode.equals("Partner") && partnerMode) {
                                             if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
                                                 if (!externalPartyNickname.equals("ปีนังเงินไทย")) {
-                                                    rows.add(date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + "\n");
+                                                    rows.add("P, " + date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + ", " + type + "\n");
                                                 }
                                             }
                                         }
@@ -201,8 +201,8 @@ public class ProfitLossParser {
     }
 
     public static void main(String[] args) {
-        String cHeader = "Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out\n";
-        String pHeader = "Date, Manager Nickname, Worker Nickname, Number, Partner Nickname, Partner ID, Money Out, Money In\n";
+        String cHeader = "Customer, Date, Manager Nickname, Worker Nickname, Number, Customer Nickname, Customer ID, Money In, Money Out, Type\n";
+        String pHeader = "Partner, Date, Manager Nickname, Worker Nickname, Number, Partner Nickname, Partner ID, Money Out, Money In, Type\n";
         ProfitLossParser profitLossParser = new ProfitLossParser();
 //        List<String> first_customerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Customer", "M", 1);
 //        List<String> first_partnerTest = profitLossParser.processFiles("MalayP2", "./Input/test", "Partner", "M", 1);

@@ -1,926 +1,926 @@
-._MODE,._NEW_MODE,,._W,._NEW_W,._WORKER_USER,._NICK,._NEW_NICK,._USER,._NEW_USER,._TYPE,._MALAY_W,._MALAY_P,._THAI_W,._THAI_P
-C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% T15,เปิ้ล%,2% T15,PLE,M,,x,,
-C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% จิ๋ม,เปิ้ล%,2% จิ๋ม,PLE,M,,x,,
-C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% มาย,เปิ้ล%,2% มาย,PLE,M,,x,,
-C,C,WHANG,แต๋ว,COMMISSION,COMMISSION,1 % สุมล,ลัดดา,1 % สุมล,K01,M,,x,,
-C,C,WHANG,แต๋ว,COMMISSION,COMMISSION,3 % สุมล,ลัดดา,3 % สุมล,K01,M,,x,,
-C,C,WHANG,นา,COMMISSION,COMMISSION,1% T17,เปิ้ล%,1% T17,PLE,M,,x,,
-C,C,WHANG,พี่นา,COMMISSION,COMMISSION,% สุมล,ลัดดา,% สุมล,K01,M,,x,,
-C,C,WHANG,พี่นา,COMMISSION,COMMISSION,.ม,คุณยายแมรี่,.ม,MARY,M,,x,,
-C,C,WHANG,แมม,COMMISSION,COMMISSION,% สุมล,ลัดดา,% สุมล,K01,M,,x,,
-C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,1 % กุ้ง,XRR,1 % กุ้ง,XRR,M,,x,,
-C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,2 % กุ้ง,XRR,2 % กุ้ง,XRR,M,,x,,
-C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,2 % น้อง,XRR,2 % น้อง,XRR,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,บ่าว พ.น.ง,บ่าว-พนง,บ่าว พ.น.ง,BAOPN,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,เจ่าเบตง,เจ่าเบตง,เจ่าเบตง,JBT,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,หยก นาประดู่,หยกนาประดู่,หยก นาประดู่,K12,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,หยกนาประดู่,หยกนาประดู่,หยกนาประดู่,K12,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,คาวา,คาวา,คาวา,KA,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L9,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ลักษณ์,ลักษณ์,ลักษณ์,LUX,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,แอน,แอน,แอน,N04,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ลี่ /N14,ลี่,ลี่ /N14,N14,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,นา .ม,นา-ม,นา .ม,NAM,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,นา ม.,นา-ม,นา ม.,NAM,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,นิตยา .ม,นิตยา-ม,นิตยา .ม,NITAYAM,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ตุ๊ก / N14,ตุ๊ก,ตุ๊ก / N14,NT,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,โอ / O,โอ,โอ / O,O,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,T15,T15,T15,T15,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ธีร์.ม,ธีร์-ม,ธีร์.ม,TEE,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ทราย,ทรายโตโยต้า,ทราย,TOYOTA,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,แบงค์.ม,แบงค์-ม,แบงค์.ม,YY49,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,อวบ,อวบ-ม,อวบ,YY66,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,อวบ .ม,อวบ-ม,อวบ .ม,YY66,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,อวบ.ม,อวบ-ม,อวบ.ม,YY66,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ออบ .ม,ออย-ม,ออบ .ม,YY67,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ออย .ม,ออย-ม,ออย .ม,YY67,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,ออย.ม,ออย-ม,ออย.ม,YY67,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,วรรณ .ม,วรรณ-ม,วรรณ .ม,YY68,M,,x,,
-C,C,MUAY,กิ่ง,กิ่ง,GING,วรรณ.ม,วรรณ-ม,วรรณ.ม,YY68,M,,x,,
-C,C,MUAY,หน้าเว็ป,กิ่ง,GING,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,M,x,,,
-C,C,MUAY,หน้าเว็ป,กิ่ง,GING,ลักษณ์,ลักษณ์,ลักษณ์,LUX,M,x,,,
-C,C,WHANG,จิ้น,จิ้น,JIN,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,คาวา,คาวา,คาวา,KA,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,คาวา,คาวา,คาวา,KA,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,มาย,มาย,มาย,MY,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,โอ / O,โอ,โอ / O,O,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,ทราย,ทราย-บัว,ทราย,T01,M,,x,,
-C,C,WHANG,จิ้น,จิ้น,JIN,T15,T15,T15,T15,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สด-จ่านวย,จ่าหนวย,สด-จ่านวย,AA,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เป็ด เอไอเอ,เป๊ด-AIA,เป็ด เอไอเอ,AIA,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เป็ด-AIA,เป๊ด-AIA,เป็ด-AIA,AIA,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เป็ด-เอไอเอ,เป๊ด-AIA,เป็ด-เอไอเอ,AIA,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,พี่คม,อาคม,พี่คม,AKOM,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สด-พี่คม,อาคม,สด-พี่คม,AKOM,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,AOI,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อ้อยภูเก็ต-เว็ป,อ้อยภูเก็ต,อ้อยภูเก็ต-เว็ป,AOI,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เฮียC,เฮีย-C,เฮียC,C,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ฟิวเจอร์,ฟิวเจอร์,ฟิวเจอร์,FL,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ฟิวเจอร์ / FL,ฟิวเจอร์,ฟิวเจอร์ / FL,FL,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ก.ท.,กท,ก.ท.,GT,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เฮียง / สด,เฮียง-หน่ำ,เฮียง / สด,HN,M,,x, ,
-C,C,WHANG,ชาติ,ชาติ,CHART,เฮียงสด,เฮียง-หน่ำ,เฮียงสด,HN,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,JJ/จิ้น,จิิ้น,JJ/จิ้น,JJ,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เกี่ยง-เว็ป,เกี่ยง-ม,เกี่ยง-เว็ป,KIANGM,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เพื่อนพีท,Kosuke,(เว็ป),KKA1,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,เพื่อนพีท-เว็ป,Kosuke,เพื่อนพีท-เว็ป,KKA1,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ก้อง,ก้อง,ก้อง,KONG,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ไลอ้อน,ไลอ้อน,ไลอ้อน,LI,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ไลอ้อน / LI,ไลอ้อน,ไลอ้อน / LI,LI,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,M / ซิน,M-ซิน,M / ซิน,M,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,โอ่ง,โอ่ง,โอ่ง,N03,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,โอ่ง / N3,โอ่ง,โอ่ง / N3,N03,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,ปุ๊ก,ปุ๊ก,ปุ๊ก,N25,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,นิคม,นิคม,นิคม,NK,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อ้วน,อ้วน,อ้วน,OO,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อ้วน / OO,อ้วน,อ้วน / OO,OO,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สด,อื่นๆ,สด,OTHERS,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สด-วิน,อื่นๆ,สด-วิน,OTHERS,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สด(เฮียเลี้ยง),อื่นๆ,สด(เฮียเลี้ยง),OTHERS,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,สมชัยเพื่อนเฮีย,สมชายเพื่อนเฮีย,สมชัยเพื่อนเฮีย,SOMCHAI,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,พี่ตา,ตา-พนง,พี่ตา,TUKTA,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อโนรัตน์,อโนรัตน์,อโนรัตน์,VO,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,อโนรัตน์ / VO,อโนรัตน์,อโนรัตน์ / VO,VO,M,,x,,
-C,C,WHANG,ชาติ,ชาติ,CHART,วัฒน์-เว็ป,วัฒน์,วัฒน์-เว็ป,WAT,M,,x,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,นุช,ฟิวเจอร์,นุช,FL,M,x,,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,เกี่ยง ม.,เกี่ยง-ม,เกี่ยง ม.,KIANGM,M,x,,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,ไลอ้อน,ไลอ้อน,ไลอ้อน,LI,M,x,,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,โอ่ง,โอ่ง,โอ่ง,N03,M,x,,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,พี่ภา,ภา,พี่ภา,PA,M,x,,,
-C,C,WHANG,หน้าเว็ป,ชาติ,CHART,ภา,ภา,ภา,PA,M,x,,,
-C,C,MUAY,ชิง,ชิง,CHING,นก - .จ,นก-จ,นก - .จ,AI,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,B6 / บี,บี6,B6 / บี,B6,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,บอย,บอย,บอย,BOY,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,เมา / K8,เมา,เมา / K8,K08,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,ขวัญข้าว .ม,ขวัญข้าว-ม,ขวัญข้าว .ม,KWANKAO,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,เล็กเสริมสวย,เล็กเสริมสวย,เล็กเสริมสวย,LSS,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,มลดี,มลดี,มลดี,N26,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,ปุ่ย.ม,ปุ่ย-ม,ปุ่ย.ม,T13,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,วาทินี,วาทินี-ม,วาทินี,VTN,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,วาทินี .ม,วาทินี-ม,วาทินี .ม,VTN,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,วัฒน์,วัฒน์,วัฒน์,WAT,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,เดือน.ม,เดือน-ม,เดือน.ม,YY36,M,,x,,
-C,C,MUAY,ชิง,ชิง,CHING,จิ้ง.ม,จิ้ง-ม,จิ้ง.ม,YY46,M,,x,,
-C,C,MUAY,หน้าเว็ป,ชิง,CHING,B6,บี6,B6,B6,M,x,,,
-C,C,MUAY,หน้าเว็ป,ชิง,CHING,บอย,บอย,บอย,BOY,M,x,,,
-C,C,MUAY,หน้าเว็ป,ชิง,CHING,วัฒน์,วัฒน์,วัฒน์,WAT,M,x,,,
-C,C,MUAY,อ,ชิง,CHING,B6 / บี,บี6,B6 / บี,B6,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,บอย,บอย,บอย,BOY,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,เมา / K8,เมา,เมา / K8,K08,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,มลดี,มลดี,มลดี,N26,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,ปุ่ย.ม,ปุ่ย-ม,ปุ่ย.ม,T13,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,,x,,
-C,C,MUAY,อ,ชิง,CHING,เดือน.ม,เดือน-ม,เดือน.ม,YY36,M,,x,,
-C,C,WHANG,ชาติ,ตั๊ก,TUK,LT,LT,LT,LT,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อุ๊S / A04,อุ๊S,อุ๊S / A04,A04,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อ้อยภูเก๊ต,อ้อยภูเก็ต,อ้อยภูเก๊ต,AOI,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ชุมชน,ชุมชน,ชุมชน,CNN,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ชุมชน / CNN,ชุมชน,ชุมชน / CNN,CNN,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เดียร์,เดียร์-ชน,เดียร์,DIA,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,JJ,จิิ้น,JJ,JJ,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,JJ / จิ้น,จิิ้น,JJ / จิ้น,JJ,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,กิจวัตร,กิจวัตร,กิจวัตร,KITJA,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,หมอแดง,หมอแดง,หมอแดง,MD,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,มาย,มาย,มาย,MY,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ท.ล,ทล,ท.ล,N10,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ท.ล / N10,ทล,ท.ล / N10,N10,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ปุ๊ก,ปุ๊ก,ปุ๊ก,N25,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ปุ๊ก N.25,ปุ๊ก,ปุ๊ก N.25,N25,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,สด,อื่นๆ,สด,OTHERS,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พ.,พ,พ.,PP,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พ. / PP,พ,พ. / PP,PP,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,สมชัย,สมชายเพื่อนเฮีย,สมชัย,SOMCHAI,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,สมชัยเพื่อนเฮีย,สมชายเพื่อนเฮีย,สมชัยเพื่อนเฮีย,SOMCHAI,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตั๊ก พ.น.ง,ตั๊ก-พนง,ตั๊ก พ.น.ง,TUK,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่ตา,ตา-พนง,พี่ตา,TUKTA,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,หนุ่ย / UK,หนุ่ย-UK,หนุ่ย / UK,UK,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,หนุ่ย UK,หนุ่ย-UK,หนุ่ย UK,UK,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,วาสนา,วาสนา,วาสนา,V,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,วาสนา / V,วาสนา,วาสนา / V,V,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,V - นวล,V-นวล,V - นวล,VN,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,v-นวล,V-นวล,v-นวล,VN,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,โส้-วาสนา,V-โส้,โส้-วาสนา,VSO,M,,x,,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่ยา ก.ท.ม,ยา-กทม,พี่ยา ก.ท.ม,YAGTM,M,,x,,
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,เฮียง้วน,เฮียง้วน,เฮียง้วน,NGUAN,M,,x,,
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,สมชาย,เฮียสมชาย,สมชาย,SC,M,,x,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,พี่คม,อาคม,พี่คม,AKOM,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,AQ,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,JJ,จิิ้น,JJ,JJ,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,ตั๊ก,ตั๊ก-พนง,ตั๊ก,TUK,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,หนุ่ยหุ้น,หนุ่ย-UK,หนุ่ยหุ้น,UK,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,วาสนา,วาสนา,วาสนา,V,M,x,,,
-C,C,WHANG,หน้าเว็ป,ตั๊ก,TUK,โส้-วาสนา,V-โส้,โส้-วาสนา,VSO,M,x,,,
-C,C,WHANG,ตี้,ตี้,TEE,เก๋ ม.,เก๋-ม,เก๋ ม.,GAM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,เก๋.ม,เก๋-ม,เก๋.ม,GAM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,กล้วย .ม,กล้วย-ม,กล้วย .ม,GLUAIM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,กื้อ,กื้อ,กื้อ,GYALA,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,เจ่าเบตง,เจ่าเบตง,เจ่าเบตง,JBT,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,เล็ก.ม,เล็ก-ม,เล็ก.ม,LEKM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,ลักษณ์,ลักษณ์,ลักษณ์,LUX,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,ลักษณ์ .ม,ลักษณ์,ลักษณ์ .ม,LUX,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,นา .ม,นา-ม,นา .ม,NAM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,นา ม.,นา-ม,นา ม.,NAM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,นา.ม,นา-ม,นา.ม,NAM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,นิต .ม,นิต-ม,นิต .ม,NITM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,พร .ม,พร-ม,พร .ม,PRM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,พร.ม,พร-ม,พร.ม,PRM,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,ธี,ธีร์-ม,ธี,TEE,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,ธีร์.ม,ธีร์-ม,ธีร์.ม,TEE,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,แบงค์,แบงค์-ม,แบงค์,YY49,M,,x,,
-C,C,WHANG,ตี้,ตี้,TEE,แบงค์.ม,แบงค์-ม,แบงค์.ม,YY49,M,,x,,
-C,C,WHANG,แต๋ว,ตี้,TEE,ญารมณ์,ญารมณ์,/YA,YA,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ชัช,ชัช,ชัช,CHUT,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ชุมชน,ชุมชน,ชุมชน,CNN,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,จิรา,จิรา,จิรา,JIRA,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ลัดดา,ลัดดา,ลัดดา,K01,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ลัดดา / K1,ลัดดา,ลัดดา / K1,K01,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,YOK / หยก,หยกนาประดู่,YOK / หยก,K12,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,หยก,หยกนาประดู่,หยก,K12,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สุมล,สุมล,สุมล,K18,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สุมล / K18,สุมล,สุมล / K18,K18,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ส.นรา,โกสรวง,ส.นรา,KS,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ส.นรา / KS,โกสรวง,ส.นรา / KS,KS,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,พี่ควร,ควร,พี่ควร,KUAN,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,พี่ควร / A03,ควร,พี่ควร / A03,KUAN,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ม.,คุณยายแมรี่,ม.,MARY,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ม.(พี่แก่น),คุณยายแมรี่,ม.(พี่แก่น),MARY,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,มังกร,มังกร,มังกร,MG,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,อาโกว / N18,อาโกว,อาโกว / N18,N18,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,อาโกว/N18,อาโกว,อาโกว/N18,N18,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สอง / 2,สอง,สอง / 2,NO02,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,รจนา,รจนา,รจนา,RODSUT,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,รุณ,รุณ,รุณ,RUUN,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สุดใจ / SUT,สุดใจ,สุดใจ / SUT,SUT,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ปุ๋ย,ปุ่ย-ม,ปุ๋ย,T13,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ปุ๋ย พ.น.ง,ปุ่ย-ม,ปุ๋ย พ.น.ง,T13,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,TOOK,TOOK,TOOK,TOOK,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,หนุ่ย / UK,หนุ่ย-UK,หนุ่ย / UK,UK,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,อุทัย,อุทัย,อุทัย,UT,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,อุทัย / UT,อุทัย,อุทัย / UT,UT,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,รัตน์ / RR,X-RR,รัตน์ / RR,XRR,M,,x,,
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ญารมณ์,ญารมณ์,ญารมณ์,YA,M,,x,,
-C,C,MUAY,นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,M,,x,,
-C,C,MUAY,นา,นา,NA,A เทียน,เทียนจ่อ,A เทียน,AT,M,,x,,
-C,C,MUAY,นา,นา,NA,เทียนจ่อ,เทียนจ่อ,เทียนจ่อ,AT,M,,x,,
-C,C,MUAY,นา,นา,NA,ออง,ออง-ชน,ออง,CA,M,,x,,
-C,C,MUAY,นา,นา,NA,จุง,จุง,จุง,CJ,M,,x,,
-C,C,MUAY,นา,นา,NA,พี่ชน,ชุมชน,พี่ชน,CNN,M,,x,,
-C,C,MUAY,นา,นา,NA,จรินทร์,จรินทร์,จรินทร์,CR,M,,x,,
-C,C,MUAY,นา,นา,NA,ปุ๋ย/ชน,ปุ๋ย-ชน,ปุ๋ย/ชน,CU,M,,x,,
-C,C,MUAY,นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,M,,x,,
-C,C,MUAY,นา,นา,NA,เจี๊ยบ,เจี๊ยบ,เจี๊ยบ,JEAB,M,,x,,
-C,C,MUAY,นา,นา,NA,ก. นีย์,ก.นีย์,ก. นีย์,KI,M,,x,,
-C,C,MUAY,นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,M,,x,,
-C,C,MUAY,นา,นา,NA,ก.นี่ย์ / KI,ก.นีย์,ก.นี่ย์ / KI,KI,M,,x,,
-C,C,MUAY,นา,นา,NA,เพื่อนน้องพีท,Kosuke,เพื่อนน้องพีท,KKA1,M,,x,,
-C,C,MUAY,นา,นา,NA,พี่ควร,ควร,พี่ควร,KUAN,M,,x,,
-C,C,MUAY,นา,นา,NA,DD / L4,DD,DD / L4,L4,M,,x,,
-C,C,MUAY,นา,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,,x,,
-C,C,MUAY,นา,นา,NA,ฤดี,เจ้ฤดี,ฤดี,N16,M,,x,,
-C,C,MUAY,นา,นา,NA,จอส,จอส,จอส,N27,M,,x,,
-C,C,MUAY,นา,นา,NA,นก .ก.ท.ม,นก-กทม,นก .ก.ท.ม,NOK,M,,x,,
-C,C,MUAY,นา,นา,NA,นก ก.ท.ม.,นก-กทม,นก ก.ท.ม.,NOK,M,,x,,
-C,C,MUAY,นา,นา,NA,ภา พ.น.ง,ภา,ภา พ.น.ง,PA,M,,x,,
-C,C,MUAY,นา,นา,NA,ภา พนง,ภา,ภา พนง,PA,M,,x,,
-C,C,MUAY,นา,นา,NA,ป้าแผ้ว,ป้าแผ้ว,ป้าแผ้ว,PAP,M,,x,,
-C,C,MUAY,นา,นา,NA,T17,T17,T17,T17,M,,x,,
-C,C,MUAY,นา,นา,NA,พี่แต้,แต้,พี่แต้,TAE,M,,x,,
-C,C,MUAY,นา,นา,NA,YP3.ยุพิน,YP3,YP3.ยุพิน,YP3,M,,x,,
-C,C,MUAY,นา,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,A เทียน,เทียนจ่อ,A เทียน,AT,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ออง,ออง-ชน,ออง,CA,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,จุง,จุง,จุง,CJ,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,พี่ชน,ชุมชน,พี่ชน,CNN,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,จรินทร์,จรินทร์,จรินทร์,CR,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ปุ๋ย/ชน,ปุ๋ย-ชน,ปุ๋ย/ชน,CU,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,เดียร์,เดียร์-ชน,เดียร์,DIA,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,สุมล,สุมล,สุมล,K18,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,เพื่อนน้องพีท,Kosuke,เพื่อนน้องพีท,KKA1,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,เพื่อนพีท,Kosuke,เพื่อนพีท,KKA1,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,พี่ควร,ควร,พี่ควร,KUAN,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,DD / L4,DD,DD / L4,L4,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L9,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,คุณยาย,คุณยายแมรี่,คุณยาย,MARY,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ม.,คุณยายแมรี่,ม.,MARY,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,แม่เปิ้ล,แม่เปิ้ล,แม่เปิ้ล,MP,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,แอนวัด,แอน,แอนวัด,N04,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ลี่ /N14,ลี่,ลี่ /N14,N14,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,N16 / ฤดี,เจ้ฤดี,N16 / ฤดี,N16,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ฤดี,เจ้ฤดี,ฤดี,N16,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,หนึ่ง .ม,หนึ่ง,หนึ่ง .ม,NO01,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ตุ๊ก / NT,ตุ๊ก,ตุ๊ก / NT,NT,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,อร-รักษ์.ม,ออน-ลักษณ์,อร-รักษ์.ม,OL,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ป้าแผ้ว,ป้าแผ้ว,ป้าแผ้ว,PAP,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,แต้,แต้,แต้,T12,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,T17,T17,T17,T17,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,พี่แต้,แต้,พี่แต้,TAE,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,ทราย .ม,ทรายโตโยต้า,ทราย .ม,TOYOTA,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,YP3.ยุพิน,YP3,YP3.ยุพิน,YP3,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,,x,,
-C,C,MUAY,พี่นา,นา,NA,กิ๊ฟซี่ .ม,กิ๊ฟซี่-ม,กิ๊ฟซี่ .ม,YY63,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,อลอนสตาร์,อลอนสตาร์,อลอนสตาร์,ALORSETA,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,อ้อยซ้ายขวัญ,อ้อยซ้ายขวัญ,อ้อยซ้ายขวัญ,AOIKWAN,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,ปีนัง,ปีนัง1,1,JESSY1,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,ปีนัง Ringgit,ปีนัง1,ปีนัง Ringgit,JESSY1,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,ปีนัง,ปีนัง2,2,JESSY2,M,,x,,
-P,P,MUAY,รายการโป๊ว,นา,NA,ม,คุณยายแมรี่,ม,MARY,M,,x,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ฉอ,ฉอ,ฉอ,CHOR,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ปุ๋ย-ชน,ปุ๋ย-ชน,ปุ๋ย-ชน,CU,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,DD,DD,DD,DD,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,จิตติ,จิตติ,จิตติ,JIT,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,สุมล,สุมล,สุมล,K18,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,เพื่อนพีท,Kosuke,เพื่อนพีท,KKA1,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ก้อง,ก้อง,ก้อง,KONG,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ควร,ควร,ควร,KUAN,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ตา,ตาโฮเต็ล,ตา,L9,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ตา L9,ตาโฮเต็ล,ตา L9,L9,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,แอน,แอน,แอน,N04,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,กาแฟ,กาแฟ,กาแฟ,N06,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ลี่,ลี่,ลี่,N14,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,จอส,จอส,จอส,N27,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,แนน,แนน,แนน,NAN,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ตุ๊ก,ตุ๊ก,ตุ๊ก,NT,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ออน-ลักษณ์,ออน-ลักษณ์,ออน-ลักษณ์,OL,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,เงินสด,อื่นๆ,เงินสด,OTHERS,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ปุ๊,ปุ๊-พี่คม,ปุ๊,PU,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ทราย,ทราย-บัว,ทราย,T01,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,T17,T17,T17,T17,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,YP3,YP3,YP3,YP3,M,x,,,
-C,C,MUAY,หน้าเว็ป,นา,NA,กิ๊ป ม.,กิ๊ฟซี่-ม,กิ๊ป ม.,YY63,M,x,,,
-C,C,MUAY,หน้าเว็ป,นู,NU,อารี,อารี,อารี,AREE,M,x,,,
-C,C,MUAY,หน้าเว็ป,นู,NU,ต้อย,ต้อย,ต้อย,TOI,M,x,,,
-C,C,MUAY,หน้าเว็ป,นู,NU,ทราย ม.,ทรายโตโยต้า,ทราย ม.,TOYOTA,M,x,,,
-C,C,WHANG,บัว,บัว,BUA,กัปตัน,กัปตัน,กัปตัน,A11,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,กัปตัน /A11,กัปตัน,กัปตัน /A11,A11,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จ,จ,จ,AJ,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จ.,จ,จ.,AJ,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,อู๊ด,อู๊ด,อู๊ด,AO,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,AOI,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ยิน,ยิน,ยิน,AY,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,นา / B11,นา-B11,นา / B11,B11,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ออง-ชน,ออง-ชน,ออง-ชน,CA,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ฉอ,ฉอ,ฉอ,CHOR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จริญ-ชน,จรินทร์,จริญ-ชน,CR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ปุ๋ย-ชน,ปุ๋ย-ชน,ปุ๋ย-ชน,CU,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ปุ๋ยชล,ปุ๋ย-ชน,ปุ๋ยชล,CU,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เดียร์,เดียร์-ชน,เดียร์,DIA,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เดียร์-ชน,เดียร์-ชน,เดียร์-ชน,DIA,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ฟ้า,ฟ้า,ฟ้า,FAR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ก้อย,ก้อย-ม,ก้อย,GOIM,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ก้อย ม.,ก้อย-ม,ก้อย ม.,GOIM,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,แอ๊ะ / K9,แอ๊ะ,แอ๊ะ / K9,K09,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ตุง / K15,ตุง,ตุง / K15,K15,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เกี่ยง ม.,เกี่ยง-ม,เกี่ยง ม.,KIANGM,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ส.นรา,โกสรวง,ส.นรา,KS,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,พี่กฤษ / n2,กฤษ,N2,N02,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,หยง,หยง,หยง,N08,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,พรแก๊ส,พรแก๊ส,พรแก๊ส,N13,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,พรแก๊ส / N13,พรแก๊ส,พรแก๊ส / N13,N13,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,หนู,หนู,หนู,NN,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,หนู / NN,หนู,หนู / NN,NN,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ออน-ลักษณ์,ออน-ลักษณ์,ออน-ลักษณ์,OL,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เงินสด,อื่นๆ,เงินสด,OTHERS,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ปุ๊-พี่คม,ปุ๊-พี่คม,ปุ๊-พี่คม,PU,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,กุ้ง,กุ้ง-RR,กุ้ง,RK,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,กุ้ง-RR,กุ้ง-RR,กุ้ง-RR,RK,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,รุจน์,รุจน์,รุจน์,RUJ,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,สี,สี,สี,SE,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,สมชัย,สมชายเพื่อนเฮีย,สมชัย,SOMCHAI,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,สุดใจ,สุดใจ,สุดใจ,SUT,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,สุดใจ / SUT,สุดใจ,สุดใจ / SUT,SUT,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ทราย,ทราย-บัว,ทราย,T01,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,แต้,แต้,แต้,T12,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ต๊ะ,ต๊ะ,ต๊ะ,TA,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ตาล,ตาล,ตาล,TAA,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,หนุ่ย,หนุ่ย-UK,หนุ่ย,UK,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,หนุ่ย-โป๊ว,หนุ่ย-UK,หนุ่ย-โป๊ว,UK,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,RR,X-RR,RR,XRR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,นารีรัตน์,X-RR,นารีรัตน์,XRR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,นารีรัตน์ / RR,X-RR,นารีรัตน์ / RR,XRR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เอ็ก / X,X-RR,เอ็ก / X,XRR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,เอ๊กซ์,X-RR,เอ๊กซ์,XRR,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จิ้ง,จิ้ง-ม,จิ้ง,YY46,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จิ้ง .ม,จิ้ง-ม,จิ้ง .ม,YY46,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,จิ้ง ม.,จิ้ง-ม,จิ้ง ม.,YY46,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ออย,ออย-ม,ออย,YY67,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,ออย ม.,ออย-ม,ออย ม.,YY67,M,,x,,
-C,C,WHANG,บัว,บัว,BUA,Z13,Z13,Z13,Z13,M,,x,,
-P,P,WHANG,รายการโป๊ว,บัว,BUA,พี่กฤษ,กฤษ,พี่กฤษ,N2,M,,x,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,อ้อย,อ้อยภูเก็ต,อ้อย,AOI,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,AOI,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,อ้อยภูเก๊ต,อ้อยภูเก็ต,อ้อยภูเก๊ต,AOI,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,อ้อยภูเก็ต-เว็ป,อ้อยภูเก็ต,อ้อยภูเก็ต-เว็ป,AOI,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,แอ๊ะ K9,แอ๊ะ,แอ๊ะ K9,K09,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,แอ๊ะK9,แอ๊ะ,แอ๊ะK9,K09,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,หนู,หนู,หนู,NN,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,โอ๋,โอท๊อป,โอ๋,OTOP,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,กุ้งRR,กุ้ง-RR,กุ้งRR,RK,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,RR,X-RR,RR,XRR,M,x,,,
-C,C,WHANG,หน้าเว็ป,บัว,BUA,เอ็กซ์,X-RR,เอ็กซ์,XRR,M,x,,,
-C,C,WHANG,แมม,แมม,MAM,บ่าว พ.น.ง,บ่าว-พนง,บ่าว พ.น.ง,BAOPN,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ลัดดา,ลัดดา,ลัดดา,K01,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,สุมล,สุมล,สุมล,K18,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,เขียว.ม,เขียว-ม,เขียว.ม,KEAWM,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,เขียวสด.ม,เขียว-ม,เขียวสด.ม,KEAWM,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L9,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,แอน,แอน,แอน,N04,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,แอนวัด,แอน,แอนวัด,N04,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,แอนวัดโคก,แอน,แอนวัดโคก,N04,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ลี่ /N14,ลี่,ลี่ /N14,N14,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,อาโกว,อาโกว,อาโกว,N18,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ตุ๊ก / NT,ตุ๊ก,ตุ๊ก / NT,NT,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ปุ๋ย.ม,ปุ่ย-ม,ปุ๋ย.ม,T13,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,ทรายโตโยต้า,ทรายโตโยต้า,ทรายโตโย้,TOYOTA,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,กิ๊ฟซี่,กิ๊ฟซี่-ม,กิ๊ฟซี่,YY63,M,,x,,
-C,C,WHANG,แมม,แมม,MAM,กิ๊ฟซี่ .ม,กิ๊ฟซี่-ม,กิ๊ฟซี่ .ม,YY63,M,,x,,
-C,C,WHANG,หน้าเว็ป,แมม,MAM,แอนวัดโคก,แอนวัดโคก,แอนวัดโคก,N04,M,x,,,
-P,P,WHANG,รายการโป๊ว,เล็ก,LEK,โกว,อาโกว,โกว,N18,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,AA,จ่าหนวย,AA,AA,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,นก จ.,นก-จ,นก จ.,AI,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,จ.,จ,จ.,AJ,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,จ. / AJ,จ,จ. / AJ,AJ,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เจ้ง้อ,เจ้ง้อ,เจ้ง้อ,AK,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เจ้ง้อ / Ak,เจ้ง้อ,เจ้ง้อ / Ak,AK,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,หนุ่ยตรัง,หนุ่ยตรัง,หนุ่ยตรัง,ANU,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ยิน,ยิน,ยิน,AY,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,วีระ / B9,วีระ,วีระ / B9,B9,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ชาญขัย,ชาญชัย,ชาญขัย,CC,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เอิบ,เอิบ,เอิบ,ER,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เอิบ / ER,เอิบ,เอิบ / ER,ER,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,โกซี่ปัตตานี,โกซี่ปัตตานี,โกซี่ปัตตานี,GOSI,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,Ink / อิ้ง,อิ้ง,Ink / อิ้ง,INK,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,เกียว / KK,เจ้เกียว,เกียว / KK,KK,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ป๋วย / KK,ป๋วย,ป๋วย / KK,KKPP,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ป๋วย/kk,ป๋วย,ป๋วย/kk,KKPP,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,หยง,หยง,หยง,N08,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,หยง / N8,หยง,หยง / N8,N08,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,อาโกว/N18,อาโกว,อาโกว/N18,N18,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,99,บี99,99,NO99,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,วีระ,วีระ,วีระ,NO99,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,ต้อย,ต้อย,ต้อย,TOI,M,,x,,
-C,C,WHANG,เล็ก,เล็ก,LEK,Z11,Z11,Z11,Z11,M,,x,,
-C,C,WHANG,หน้าเว็ป,เล็ก,LEK,จ,จ,จ,AJ,M,x,,,
-C,C,WHANG,หน้าเว็ป,เล็ก,LEK,จ.,จ,จ.,AJ,M,x,,,
-C,C,WHANG,หน้าเว็ป,เล็ก,LEK,หยง,หยง,หยง,N08,M,x,,,
-C,C,WHANG,หน้าเว็ป,เล็ก,LEK,99,บี99,99,NO99,M,x,,,
-C,C,WHANG,หน้าเว็ป,เล็ก,LEK,Z11,Z11,Z11,Z11,M,x,,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,ม.เบตง,รุ่ง-เบตง,ม.เบตง,BT,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,รุ่ง.เบตง,รุ่ง-เบตง,รุ่ง.เบตง,BT,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,รุ่ง.ม,รุ่ง-เบตง,รุ่ง.ม,BT,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,การ์ตูน,การ์ตูน,การ์ตูน,CARTOON,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,แก้ว,แก้ว,แก้ว,GAEW,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,กบ .ม,กบ-ม,กบ .ม,GOBMT,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,ก้อย .ม,ก้อย-ม,ก้อย .ม,GOIM,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,จ๋า,จ๋า,จ๋า,JA,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,K.9 / แอ๊ะ,แอ๊ะ,K.9 / แอ๊ะ,K09,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,จ.ท.น,จทน,จ.ท.น,K17,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,เล็กเสริมสวย,เล็กเสริมสวย,เล็กเสริมสวย,LSS,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,นา .ม,นา-ม,นา .ม,NAM,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,สาว.707.ม,สาว-707-ม,สาว.707.ม,NO707,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,ประดิษฐ์,ประดิษฐ์,ประดิษฐ์,P,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,สาวส้ม .ม,สาวส้ม-ม,สาวส้ม .ม,SAOSOM,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,แต้,แต้,แต้,T12,M,,x,,
-C,C,MUAY,หน่อย,หน่อย,NHOI,เพลิน,เพลิน,เพลิน,YY16,M,,x,,
-C,C,MUAY,หน้าเว็ป,หน่อย,NHOI,กบ,กบ-ม,กบ,GOBMT,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยเล็ก,MUAYLEK,ออนต้า,ออนต้า,ออนต้า,YY35,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยเล็ก,MUAYLEK,Z9,Z09,Z9,Z09,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยเล็ก,MUAYLEK,Z13,Z13,Z13,Z13,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยเล็ก,MUAYLEK,Z15,Z15,Z15,Z15,M,x,,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,ยิน,ยิน,ยิน,AY,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,ยิน / AY,ยิน,ยิน / AY,AY,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,พี่เอียดบ้าน,เอียดบ้าน,พี่เอียดบ้าน,EIATB,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,แต้,แต้,แต้,T12,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,ออนต้า,ออนต้า,ออนต้า,YY35,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z9,Z09,Z9,Z09,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z13,Z13,Z13,Z13,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z14,Z14,Z14,Z14,M,,x,,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z15,Z15,Z15,Z15,M,,x,,
-C,C,WHANG,ซื้อ,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,M,,x,,
-P,P,WHANG,ซื้อ,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,M,,x,,
-C,C,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,M,,x,,
-P,P,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,M,,x,,
-C,C,WHANG,หน้าเว็ป,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยใหญ่,MUAYYAI,N5,อิ๋ว,N5,N05,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมวยใหญ่,MUAYYAI,อิ๋ว N5,อิ๋ว-เว็ป,อิ๋ว N5,N5W,M,x,,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อู๊ด / AO,อู๊ด,อู๊ด / AO,AO,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,AQ,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,ไก่นา,ไก่นา,ไก่นา,K11,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,ไก่นา / K11,ไก่นา,ไก่นา / K11,K11,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,ทอง / L7,ทอง,ทอง / L7,L7,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,น้อง,น้อง,น้อง,N,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,น้อง / N,น้อง,น้อง / N,N,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อิ๋ว,อิ๋ว,พี่อิ๋ว /N5,N05,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,หยง,หยง,หยง,N08,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,แตง,แตง,แตง,N12,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,แตง / N12,แตง,แตง / N12,N12,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,กุ้ง /RK,กุ้ง-RR,กุ้ง /RK,RK,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,เจ้คนเดียว,เจ๊คนเดียว RN,เจ้คนเดียว,RNA,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,RNP,RN โป๊ว เปิ้ล,RNP,RNP,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,สุพิศ,สุพิศ,สุพิศ,SP,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,สุพิศ / SP,สุพิศ,สุพิศ / SP,SP,M,,x,,
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,Z10,Z10,Z10,Z10,M,,x,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,K4,มณี,K4,K04,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,K21,S,K21,K21,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,หน่อง,หน่อง,หน่อง,K22,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,เษม,เสม,เษม,K23,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,ขวัญ,ขวัญ-พนง,ขวัญ,KKM,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,เกียง N15,เจ้เกียง,เกียง N15,N15,M,x,,,
-C,C,WHANG,หน้าเว็ป,หมู,MOO,เกียงN15,เจ้เกียง,เกียงN15,N15,M,x,,,
-C,C,WHANG,หมู,หมู,MOO,สำอางค์,สำอางค์,สำอางค์,B5,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เพื่อนอร,เล็กนคร,เพื่อนอร,BO,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เพื่อนอรญา,เล็กนคร,เพื่อนอรญา,BO,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เล็กนคร,เล็กนคร,เล็กนคร,BO,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เจ้เชง,เจ้เชง,เจ้เชง,CH,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เจ๊เชง,เจ้เชง,เจ๊เชง,CH,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เจ้เชง / CH,เจ้เชง,เจ้เชง / CH,CH,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,CT,เชษZ8,CT,CT,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,CT-เชษz8,เชษZ8,CT-เชษz8,CT,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,ZA,เชษZ8,ZA,CT,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,จิตติ,จิตติ,จิตติ,JIT,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,จิตติ / JIT,จิตติ,จิตติ / JIT,JIT,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,K4/มณี,มณี,K4/มณี,K04,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,หยก,หยกนาประดู่,หยก,K12,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,S / K21,S,S / K21,K21,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,หน่อง / K22,หน่อง,หน่อง / K22,K22,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เสม /K23,เสม,เสม /K23,K23,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,เกียง / N15,เจ้เกียง,เกียง / N15,N15,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,ฤดี / N16,เจ้ฤดี,ฤดี / N16,N16,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,นิคม / NK,นิคม,นิคม / NK,NK,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,อรญา .ม,อรญา-ม,อรญา .ม,ON,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,ไร .ม,ไร-ม,ไร .ม,RAIM,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,TOOK,TOOK,TOOK,TOOK,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,แมว .ม,แมว-ม,แมว .ม,YY02,M,,x,,
-C,C,WHANG,หมู,หมู,MOO,Z8,Z08,Z8,Z08,M,,x,,
-C,C,WHANG,จิ้น,COMMISSION,COMMISSION,%ช้างตานี,ลัดดา,%ช้างตานี,K01,T,,,,x
-C,C,MUAY,WEB,กิ่ง,GING,Jim padung,จิ๋มปาดัง,Jim padung,J1,T,,,x,
-C,C,MUAY,WEB,กิ่ง,GING,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,,,x,
-C,C,MUAY,WEB,กิ่ง,GING,โอ,โอ,โอ,O,T,,,x,
-C,C,MUAY,กิ่ง,กิ่ง,GING,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,เจ่าเบตง,เจ่าเบตง,BT,JBT,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,หยก,หยกนาประดู่,หยก,K12,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,คาวา,คาวา,คาวา,KA,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,T15,T15,T15,T15,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,พี่ธรรม,ธรรม,พี่ธรรม,TAM,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,ทุม,ทุม,ทุม,TUM,T,,,,x
-C,C,MUAY,กิ่ง,กิ่ง,GING,วิ,วิ,วิ,VI,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,ช้างตานี,ช้างตานี,ช้างตานี,CTN,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,ช้างตานีweb,ช้างตานี,ช้างตานีweb,CTN,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,จิม,จิ๋มปาดัง,จิม,J1,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,จิ๋ม,คุณจิ๋ม,จิ๋ม,JIM,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,คาวา,คาวา,คาวา,KA,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,มาย,มาย,My,MY,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,ทราย,ทราย-บัว,ทราย,T01,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,T15,T15,T15,T15,T,,,,x
-C,C,WHANG,จิ้น,จิ้น,JIN,วิ,วิ,วิ,VI,T,,,,x
-C,C,WHANG,WEB,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,x,
-P,P,WHANG,WEB,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,นุช future,ฟิวเจอร์,นุช future,FL,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,Lion,ไลอ้อน,Lion,LI,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,โอ่ง,โอ่ง,โอ่ง,N03,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,พี่ภา Agent,ภา,พี่ภา Agent,PA,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,ภา,ภา,ภา,PA,T,,,x,
-C,C,WHANG,WEB,ชาติ,CHART,อโนรัต,อโนรัตน์,อโนรัต,VO,T,,,x,
-C,C,WHANG,ชาติ,ชาติ,CHART,เฮีย C,เฮีย-C,เฮีย C,C,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,Boss,ฉ่อย,Boss,CHOI,T,,,,x
-P,P,WHANG,ชาติ,ชาติ,CHART,Boss,ฉ่อย,Boss,CHOI,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,,x
-P,P,WHANG,ชาติ,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,ฟิวเจอร์,ฟิวเจอร์,ฟิวเจอร์,FL,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,Lion,ไลอ้อน,Lion,LI,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,M ซิน,M-ซิน,M ซิน,M,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,M ลี,M-ลี,M ลี,ML,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,โอ่ง,โอ่ง,N3,N03,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,R⁺,ภา,R⁺,PA,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,R+ web,ภา,R+ web,PA,T,,,,x
-C,C,WHANG,ชาติ,ชาติ,CHART,อโนรัตน์,อโนรัตน์,VO,VO,T,,,,x
-C,C,WHANG,รายการโป๊ว,ชาติ,CHART,Boss,ฉ่อย,Boss,CHOI,T,,,,x
-P,P,WHANG,รายการโป๊ว,ชาติ,CHART,BOSS,ฉ่อย,BOSS,CHOI,T,,,,x
-P,P,WHANG,รายการโป๊ว,ชาติ,CHART,Boss,ฉ่อย,Boss,CHOI,T,,,,x
-C,C,WHANG,รายการโป๊ว,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,,x
-P,P,WHANG,รายการโป๊ว,ชาติ,CHART,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,,,,x
-C,C,MUAY,WEB,ชิง,CHING,B6,บี6,B6,B6,T,,,x,
-C,C,MUAY,WEB,ชิง,CHING,BOY,บอย,BOY,BOY,T,,,x,
-C,C,MUAY,WEB,ชิง,CHING,บอย agent,บอย,บอย agent,BOY,T,,,x,
-C,C,MUAY,ชิง,ชิง,CHING,นก,นก-จ,นก,AI,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,B,บี6,B,B6,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,บอย,บอย,บอย,BOY,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,เมา,เมา,K8,K08,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,เมา,เมา,เมา,K08,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,มลดี,มลดี,มลดี,N26,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,B,บี6,B6,NO99,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,นก กทม,นก-กทม,นก กทม,NOK,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,รินทร์,รินทร์,รินทร์,RIN,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,นก/บอย,ตาล,นก/บอย,TAA,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,ตา อุดร,ตา-อุดร,ตา อุดร,TAU,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,แต๊ง รัตภูมิ,แต๊ง-รัตภูมิ,แต๊ง รัตภูมิ,THXR,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,ทะเลไทย,ทะเลไทย,ทะเลไทย,TLT,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,ตู่ กทม,ตู่แพร่,ตู่ กทม,TUP,T,,,,x
-C,C,MUAY,ชิง,ชิง,CHING,ตู่ แพร่,ตู่แพร่,ตู่ แพร่,TUP,T,,,,x
-C,C,WHANG,WEB,ตั๊ก,TUK,เอ๋ Agent,เอ๋-ชาติ,เอ๋ Agent,A01,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,เอ๋/ชาติ,เอ๋-ชาติ,เอ๋/ชาติ,A01,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,คม,อาคม,คม,AKOM,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,Jin Agent,จิิ้น,Jin Agent,JJ,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,JJ,จิิ้น,JJ,JJ,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,Jakhoy,KT,Jakhoy,KT,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,KT,KT,KT,KT,T,,,x,
-P,P,WHANG,WEB,ตั๊ก,TUK,KT,KT,KT,KT,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,LT,LT,LT,LT,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,ทล,ทล,ทล,N10,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,ตั๊ก AGENT,ตั๊ก-พนง,ตั๊ก AGENT,TUK,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,ตั๊ก พนง.,ตั๊ก-พนง,ตั๊ก พนง.,TUK,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,Nui UK,หนุ่ย-UK,Nui UK,UK,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,Vasana,วาสนา,Vasana,V,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,วาสนา,วาสนา,วาสนา,V,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,V โส้,V-โส้,V โส้,VSO,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,Vasana โซ้,V-โส้,Vasana โซ้,VSO,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,V TIM,V-ติ๋ม,V TIM,VT,T,,,x,
-C,C,WHANG,WEB,ตั๊ก,TUK,V หยก,V-หยก,V หยก,VY,T,,,x,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เอ๋/ชาติ,เอ๋-ชาติ,เอ๋/ชาติ,A01,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อุ๊ S,อุ๊S,อุ๊ S,A04,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อ้อยฉ่อย,อ้อยฉ่อย,อ้อยฉ่อย,AC,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เป็ด AIA,เป๊ด-AIA,เป็ด AIA,AIA,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่คม,อาคม,พี่คม,AKOM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่คม WEB,อาคม,พี่คม WEB,AKOM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่คม web,อาคม,พี่คม web,AKOM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,AOI,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เพื่อนอู๊ด web,แอ๋ว-อู๊ด,เพื่อนอู๊ด web,AQ,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,อ้อยระโนด,อ้อยระโนด,อ้อยระโนด,AR,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ฉ่อย web,ฉ่อย,ฉ่อย web,CHOI,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ศักดา,ศักดา,ศักดา,GODA,T,,,,x
-P,P,WHANG,ตั๊ก,ตั๊ก,TUK,ศักดา,ศักดา,ศักดา,GODA,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,โก้ web,โก้,โก้ web,GOW,T,,,x,
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,กท,กท,กท,GT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เจ,เจ,เจ,JAY,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,k จิ๋ม,คุณจิ๋ม,k จิ๋ม,JIM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,คุณจิ๋ม,คุณจิ๋ม,คุณจิ๋ม,JIM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,JJ,จิิ้น,JJ,JJ,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,จุก,จุก-NUSKIN,จุก,JUK,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่จุก,จุก-NUSKIN,พี่จุก,JUK,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เจ้ยู้,เจ้ยู้,เจ้ยู้,JYU,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,KT,KT,KT,KT,T,,,,x
-P,P,WHANG,ตั๊ก,ตั๊ก,TUK,KT,KT,KT,KT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,KT web,KT,KT web,KT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตา,ตาโฮเต็ล,ตา,L9,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,LT,LT,LT,LT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,มาย,มาย,My,MY,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,มาย,มาย,มาย,MY,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,N7/โกต้า,โกต้า,N7/โกต้า,N07,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ทล,ทล,N10,N10,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ปุ๊ก,ปุ๊ก,N25,N25,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เพื่อนพี่เปิ้ล,อื่นๆ,เพื่อนพี่เปิ้ล,OTHERS,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,PENG,เพ้ง,PENG,PENG,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,โป้ง,โป้ง,โป้ง,PONG,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พ,พ,PP,PP,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,เจ๊คนเดียว,เจ๊คนเดียว RN,เจ๊คนเดียว,RNA,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,SERT,เฮียเสริฐ,SERT,SERT,T,,,,x
-P,P,WHANG,ตั๊ก,ตั๊ก,TUK,SERT,เฮียเสริฐ,SERT,SERT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,somchai web,สมชายเพื่อนเฮีย,somchai web,SOMCHAI,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,สมชาย web,สมชายเพื่อนเฮีย,สมชาย web,SOMCHAI,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ติ๋ม โป้ง,ตื๋ม-โป้ง,ติ๋ม โป้ง,TIMPONG,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตื๋ม โป้ง,ตื๋ม-โป้ง,ตื๋ม โป้ง,TIMPONG,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตั๊ก web,ตั๊ก-พนง,ตั๊ก web,TUK,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตั๊ก พนง.,ตั๊ก-พนง,ตั๊ก พนง.,TUK,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ตา พนง,ตา-พนง,ตา พนง,TUKTA,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,หนุ่ย,หนุ่ย-UK,UK,UK,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,วาสนา,วาสนา,V,V,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,VH,VH,VH,VH,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,V ลี่,V-ลี่,V ลี่,VL,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,Vนวล,V-นวล,Vนวล,VN,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,Vไพลิน,V-ไพลิน,Vไพลิน,VP,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ไพลิน,V-ไพลิน,ไพลิน,VP,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,Vสุ,V-สุ,Vสุ,VSU,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,V ติ๋ม,V-ติ๋ม,V ติ๋ม,VT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,Vติ๋ม,V-ติ๋ม,Vติ๋ม,VT,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,V หยก,V-หยก,V หยก,VY,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ยา กทม.,ยา-กทม,ยา กทม.,YAGTM,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,พี่ใย,พี่ใย,พี่ใย,YAI,T,,,,x
-C,C,WHANG,ตั๊ก,ตั๊ก,TUK,ยู้/ต.,เจ้ยู้-ต,ยู้/ต.,YUT,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,GODA,ศักดา,GODA,GODA,T,,,,x
-C,C,WHANG,รายการโป๊ว,ตั๊ก,TUK,ศักดา,ศักดา,ศักดา,GODA,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,ศักดา,ศักดา,ศักดา,GODA,T,,,,x
-C,C,WHANG,รายการโป๊ว,ตั๊ก,TUK,KT,KT,KT,KT,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,KT,KT,KT,KT,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,NUI,หนุ่ย-UK,NUI,UK,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,Nui,หนุ่ย-UK,Nui,UK,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,UK,หนุ่ย-UK,UK,UK,T,,,,x
-P,P,WHANG,รายการโป๊ว,ตั๊ก,TUK,หนุ่ย,หนุ่ย-UK,หนุ่ย,UK,T,,,,x
-C,C,WHANG,ตี๊,ตี้,TEE,เจ่าเบตง,เจ่าเบตง,BT,JBT,T,,,,x
-C,C,WHANG,ตี๊,ตี้,TEE,พี่ธรรม,ธรรม,พี่ธรรม,TAM,T,,,,x
-C,C,WHANG,ตี๊,ตี้,TEE,ทุม,ทุม,ทุม,TUM,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,โฉม,โฉม,โฉม,CHORM,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,พี่ณี-หน่ำ,พี่ณี-หน่ำ,พี่ณี-หน่ำ,HNN,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ลัดดา,ลัดดา,K1,K01,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สุมล,สุมล,K18,K18,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,K/ป โกสรวง,โกสรวง,K/ป โกสรวง,KS,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,พี่ควร,ควร,พี่ควร,KUAN,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,ขวัญ,ขวัญ-สุดใจ,ขวัญ,KWANSUT,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,คุณยายแมรี่,คุณยายแมรี่,คุณยาย/ม,MARY,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,อาโกว,อาโกว,อาโกว,N18,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,สุดใจ,สุดใจ,สุดใจ,SUT,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,TOOK,TOOK,TOOK,TOOK,T,,,,x
-C,C,WHANG,แต๋ว,แต๋ว,TAEW,หนุ่ย,หนุ่ย-UK,UK,UK,T,,,,x
-C,C,MUAY,WEB,นา,NA,ฉอ,ฉอ,ฉอ,CHOR,T,,,x,
-C,C,MUAY,WEB,นา,NA,ช้างตานี,ช้างตานี,ช้างตานี,CTN,T,,,x,
-C,C,MUAY,WEB,นา,NA,DD,DD,DD,DD,T,,,x,
-C,C,MUAY,WEB,นา,NA,FAR,ฟ้า,FAR,FAR,T,,,x,
-C,C,MUAY,WEB,นา,NA,JITTI,จิตติ,JITTI,JIT,T,,,x,
-C,C,MUAY,WEB,นา,NA,จิตติ,จิตติ,จิตติ,JIT,T,,,x,
-C,C,MUAY,WEB,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,T,,,x,
-C,C,MUAY,WEB,นา,NA,KOSUKE,Kosuke,KOSUKE,KKA1,T,,,x,
-C,C,MUAY,WEB,นา,NA,พี่ก้อง,ก้อง,พี่ก้อง,KONG,T,,,x,
-C,C,MUAY,WEB,นา,NA,ควร,ควร,ควร,KUAN,T,,,x,
-C,C,MUAY,WEB,นา,NA,ควร agent,ควร,ควร agent,KUAN,T,,,x,
-C,C,MUAY,WEB,นา,NA,Mary AGENT,คุณยายแมรี่,Mary AGENT,MARY,T,,,x,
-C,C,MUAY,WEB,นา,NA,ยายแมรี่,คุณยายแมรี่,ยายแมรี่,MARY,T,,,x,
-C,C,MUAY,WEB,นา,NA,MUAYNARA,หมวยนรา,MUAYNARA,MN,T,,,x,
-C,C,MUAY,WEB,นา,NA,ANN,แอน,ANN,N04,T,,,x,
-C,C,MUAY,WEB,นา,NA,N6,กาแฟ,N6,N06,T,,,x,
-C,C,MUAY,WEB,นา,NA,กาแฟ,กาแฟ,กาแฟ,N06,T,,,x,
-C,C,MUAY,WEB,นา,NA,จอส,จอส,จอส,N27,T,,,x,
-C,C,MUAY,WEB,นา,NA,Nan,แนน,Nan,NAN,T,,,x,
-C,C,MUAY,WEB,นา,NA,PAN,แผน,PAN,PAN,T,,,x,
-C,C,MUAY,WEB,นา,NA,Pan Agent,แผน,Pan Agent,PAN,T,,,x,
-C,C,MUAY,WEB,นา,NA,ทราย,ทราย-บัว,ทราย,T01,T,,,x,
-C,C,MUAY,WEB,นา,NA,ทราย บัว,ทราย-บัว,ทราย บัว,T01,T,,,x,
-C,C,MUAY,WEB,นา,NA,T17,T17,T17,T17,T,,,x,
-C,C,MUAY,WEB,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,T,,,x,
-C,C,MUAY,WEB,นา,NA,YP3,YP3,YP3,YP3,T,,,x,
-C,C,MUAY,นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,T,,,,x
-C,C,MUAY,นา,นา,NA,เทียนจ่อ,เทียนจ่อ,เทียนจ่อ,AT,T,,,,x
-C,C,MUAY,นา,นา,NA,DD,DD,DD,DD,T,,,,x
-C,C,MUAY,นา,นา,NA,แกะ,แกะ,แกะ,GAE,T,,,,x
-C,C,MUAY,นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,T,,,,x
-C,C,MUAY,นา,นา,NA,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,,,,x
-C,C,MUAY,นา,นา,NA,เจี๊ยบ,เจี๊ยบ,เจี๊ยบ,JEAB,T,,,,x
-C,C,MUAY,นา,นา,NA,จิตติ,จิตติ,จิตติ,JIT,T,,,,x
-C,C,MUAY,นา,นา,NA,ลัดดา,ลัดดา,K1,K01,T,,,,x
-C,C,MUAY,นา,นา,NA,สุมล,สุมล,K18,K18,T,,,,x
-C,C,MUAY,นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,T,,,,x
-C,C,MUAY,นา,นา,NA,พี่ควร,ควร,พี่ควร,KUAN,T,,,,x
-C,C,MUAY,นา,นา,NA,คุณยาย/ม,คุณยายแมรี่,คุณยาย/ม,MARY,T,,,,x
-C,C,MUAY,นา,นา,NA,หมวยนรา,หมวยนรา,MN,MN,T,,,,x
-C,C,MUAY,นา,นา,NA,แม่เปิ้ล,แม่เปิ้ล,แม่เปิ้ล,MP,T,,,,x
-C,C,MUAY,นา,นา,NA,แอน,แอน,N4,N04,T,,,,x
-C,C,MUAY,นา,นา,NA,กาแฟ,กาแฟ,N6,N06,T,,,,x
-C,C,MUAY,นา,นา,NA,ฤดี,เจ้ฤดี,N16,N16,T,,,,x
-C,C,MUAY,นา,นา,NA,นิด,นิด,N22,N22,T,,,,x
-C,C,MUAY,นา,นา,NA,จอส,จอส,N27,N27,T,,,,x
-C,C,MUAY,นา,นา,NA,นกกทม.,นก-กทม,นกกทม.,NOK,T,,,,x
-C,C,MUAY,นา,นา,NA,R+,ภา,R+,PA,T,,,,x
-C,C,MUAY,นา,นา,NA,แผน,แผน,แผน,PAN,T,,,,x
-C,C,MUAY,นา,นา,NA,รินทร์,รินทร์,รินทร์,RIN,T,,,,x
-C,C,MUAY,นา,นา,NA,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,,,,x
-C,C,MUAY,นา,นา,NA,Sert,เฮียเสริฐ,Sert,SERT,T,,,,x
-C,C,MUAY,นา,นา,NA,แต้,แต้,T12,T12,T,,,,x
-C,C,MUAY,นา,นา,NA,T17,T17,T17,T17,T,,,,x
-C,C,MUAY,นา,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,T,,,,x
-C,C,MUAY,นา,นา,NA,นก กทม,ตาล,นก กทม,TAA,T,,,,x
-C,C,MUAY,นา,นา,NA,ติ๋ม กทม,ติ๋ม-กทม,ติ๋ม กทม,TIMGTM,T,,,,x
-C,C,MUAY,นา,นา,NA,ตู่ กทม,ตู่แพร่,ตู่ กทม,TUP,T,,,,x
-C,C,MUAY,นา,นา,NA,ตู่แพร่,ตู่แพร่,ตู่แพร่,TUP,T,,,,x
-C,C,MUAY,นา,นา,NA,YP3,YP3,YP3,YP3,T,,,,x
-C,C,MUAY,นา,นา,NA,Z15,Z15,Z15,Z15,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,24LOT,24LOT,24LOT,24LOT,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,24Lot,24LOT,24Lot,24LOT,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,ชาย,ชาย-โป๊ว,ชาย,CHAI,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,ญา-ชุมพร,ญา-ชุมพร,ญา-ชุมพร,CHUMPHON,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,ญาชุมพร,ญา-ชุมพร,ญาชุมพร,CHUMPHON,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,GREEN,เว็บเขียว,GREEN,GREEN,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,เว็บเขียว,เว็บเขียว,เว็บเขียว,GREEN,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,Marry,คุณยายแมรี่,Marry,MARY,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,Mary,คุณยายแมรี่,Mary,MARY,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,RED,เว็ปแดง,RED,RED,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,เว็บแดง,เว็ปแดง,เว็บแดง,RED,T,,,,x
-C,C,MUAY,รายการโป๊ว,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,Sert Web,เฮียเสริฐ,Sert Web,SERT,T,,,,x
-P,P,MUAY,รายการโป๊ว,นา,NA,เฮียเสริฐ,เฮียเสริฐ,เฮียเสริฐ,SERT,T,,,,x
-C,C,MUAY,WEB,นู,NU,อารี,อารี,อารี,AREE,T,,,x,
-C,C,MUAY,WEB,นู,NU,ต้อย,ต้อย,ต้อย,TOI,T,,,x,
-C,C,MUAY,นู,นู,NU,อู๊ดสตูล,อู๊ดสตูล,อู๊ดสตูล,AOSATUN,T,,,,x
-C,C,MUAY,นู,นู,NU,ขวัญ,ของขวัญ,ขวัญ,KKWAN,T,,,,x
-C,C,MUAY,นู,นู,NU,น้อย,น้อย,น้อย,NOIGTM,T,,,,x
-C,C,MUAY,นู,นู,NU,ต้อย,ต้อย,ต้อย,TOI,T,,,,x
-C,C,WHANG,WEB,บัว,BUA,ชาญชัย,ชาญชัย,ชาญชัย,CC,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,K9,แอ๊ะ,K9,K09,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,แอ็ะ K9,แอ๊ะ,แอ็ะ K9,K09,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,นาสีทอง,นาสีทอง,นาสีทอง,N11,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,หนู,หนู,หนู,NN,T,,,x,
-P,P,WHANG,WEB,บัว,BUA,หนู,หนู,หนู,NN,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,OTOP,โอท๊อป,OTOP,OTOP,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,OTOP Agent,โอท๊อป,OTOP Agent,OTOP,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,โอ Agent,โอท๊อป,โอ Agent,OTOP,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,โอ top,โอท๊อป,โอ top,OTOP,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,โอtop,โอท๊อป,โอtop,OTOP,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,รุจ,รุจน์,รุจ,RUJ,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,Somchai,สมชายเพื่อนเฮีย,Somchai,SOMCHAI,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,สมชาย,สมชายเพื่อนเฮีย,สมชาย,SOMCHAI,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,SUTCLOSE,สุดใจ,SUTCLOSE,SUT,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,สุดใจ,สุดใจ,สุดใจ,SUT,T,,,x,
-C,C,WHANG,WEB,บัว,BUA,RR,X-RR,RR,XRR,T,,,x,
-C,C,WHANG,บัว,บัว,BUA,กัปตัน,กัปตัน,A11,A11,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,กัปตัน เงินสด,กัปตัน,กัปตัน เงินสด,A11,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,ปู,กัปตัน,ปู,A11,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,AOI,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,นา,นา-B11,B11,B11,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,เบลล์,เบลล์,เบลล์,BELL,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,ชาญชัย,ชาญชัย,ชาญชัย,CC,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,โฉม,โฉม,โฉม,CHORM,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,โกอั๋น,โกอั๋น,โกอั๋น,GOAN,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,โกเก้า,โกเก้า,โกเก้า,GOGAO,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,แอ๊ะ,แอ๊ะ,K9,K09,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,ตุง,ตุง,K15,K15,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,K/ป โกสรวง,โกสรวง,K/ป โกสรวง,KS,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,กฤษ,กฤษ,N2,N02,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,พรแก็ส,พรแก๊ส,N13,N13,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,หนู,หนู,NN,NN,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,333,333,333,NO333,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,OTOP,โอท๊อป,OTOP,OTOP,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,พิมพร,พิมพร,พิมพร,PIMP,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,รุจน์,รุจน์,รุจน์,RUJ,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,พี่สี,สี,พี่สี,SE,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,เฮียสมชาย,สมชายเพื่อนเฮีย,เฮียสมชาย,SOMCHAI,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,สุดใจ,สุดใจ,สุดใจ,SUT,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,แต้,แต้,T12,T12,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,RR,X-RR,RR,XRR,T,,,,x
-C,C,WHANG,บัว,บัว,BUA,พี่ยุ กทม,พี่ยุ-กทม,พี่ยุ กทม,YUGTM,T,,,,x
-C,C,WHANG,รายการโป๊ว,บัว,BUA,หนู,หนู,หนู,NN,T,,,,x
-P,P,WHANG,รายการโป๊ว,บัว,BUA,หนู,หนู-โป๊ว,หนู,NUUU,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,ลัดดา,ลัดดา,K1,K01,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,สุมล,สุมล,K18,K18,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,คุณยาย/ม,คุณยายแมรี่,คุณยาย/ม,MARY,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,แอน,แอน,N4,N04,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,กาแฟ,กาแฟ,N6,N06,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,กาแฟ web,กาแฟ,กาแฟ web,N06,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,ออนสระผม,ออนสระผม,ออนสระผม,ONSAPROM,T,,,,x
-C,C,WHANG,แมม,แมม,MAM,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,,,,x
-C,C,WHANG,WEB,เล็ก,LEK,Na Condo,นาคอนโด,Na Condo,NACONDO,T,,,x,
-C,C,WHANG,WEB,เล็ก,LEK,นาคอนโด,นาคอนโด,นาคอนโด,NACONDO,T,,,x,
-C,C,WHANG,WEB,เล็ก,LEK,B/99,บี99,B/99,NO99,T,,,x,
-C,C,WHANG,WEB,เล็ก,LEK,B99,บี99,B99,NO99,T,,,x,
-C,C,WHANG,WEB,เล็ก,LEK,Z11,Z11,Z11,Z11,T,,,x,
-C,C,WHANG,เล็ก,เล็ก,LEK,AA,จ่าหนวย,AA,AA,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,จ.,จ,จ.,AJ,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,หนุ่ย-ตรัง,หนุ่ยตรัง,ANU,ANU,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,วีระ,วีระ,B9,B9,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,พี่ณี-หน่ำ,พี่ณี-หน่ำ,พี่ณี-หน่ำ,HNN,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,INK,อิ้ง,INK,INK,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,KK,เจ้เกียว,KK,KK,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,ป๋วย,ป๋วย,ป๋วย,KKPP,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,N8,หยง,N8,N08,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,หยง,หยง,N8,N08,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,นาแม่บ้าน,นาคอนโด,นาแม่บ้าน,NACONDO,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,99,บี99,99,NO99,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,ปุยฝ้าย,ปุยฝ้าย,ปุยฝ้าย,PF,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,ปุ้ยฝ้าย,ปุยฝ้าย,ปุ้ยฝ้าย,PF,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,เจ๊คนเดียว,เจ๊คนเดียว RN,เจ๊คนเดียว,RNA,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,เจ๊คนเดียว RN,เจ๊คนเดียว RN,เจ๊คนเดียว RN,RNA,T,,,,x
-C,C,WHANG,เล็ก,เล็ก,LEK,Z11,Z11,Z11,Z11,T,,,,x
-C,C,MUAY,WEB,หน่อย,NHOI,มด,มด,มด,MOD,T,,,x,
-C,C,MUAY,หน่อย,หน่อย,NHOI,แก้ว,แก้ว,แก้ว,GAEW,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,แอ๊ะ,แอ๊ะ,K9,K09,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,จทน.,จทน,K17,K17,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,มด,มด,มด,MOD,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,ประดิษฐ์,ประดิษฐ์,ประดิษฐ์,P,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,พิมพร,พิมพร,พิมพร,PIMP,T,,,,x
-C,C,MUAY,หน่อย,หน่อย,NHOI,แต้,แต้,แต้,T12,T,,,,x
-C,C,WHANG,WEB,หมวยเล็ก,MUAYLEK,Z13,Z13,Z13,Z13,T,,,x,
-C,C,WHANG,WEB,หมวยเล็ก,MUAYLEK,Z14,Z14,Z14,Z14,T,,,x,
-C,C,WHANG,WEB,หมวยเล็ก,MUAYLEK,Z15,Z15,Z15,Z15,T,,,x,
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,พี่เรือน,พี่เรือน,พี่เรือน,RUEN,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,แต้,แต้,T12,T12,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,เทม,เทม-แนน,เทม,THAME,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,เทม แนน,เทม-แนน,เทม แนน,THAME,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z9,Z09,Z9,Z09,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z13,Z13,Z13,Z13,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z14,Z14,Z14,Z14,T,,,,x
-C,C,WHANG,หมวยเล็ก,หมวยเล็ก,MUAYLEK,Z15,Z15,Z15,Z15,T,,,,x
-C,C,WHANG,WEB,หมวยใหญ่,MUAYYAI,aood,อู๊ด,aood,AO,T,,,x,
-C,C,WHANG,WEB,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,x,
-P,P,WHANG,WEB,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,x,
-C,C,WHANG,WEB,หมวยใหญ่,MUAYYAI,อิ๋ว,อิ๋ว-เว็ป,อิ๋ว,N5W,T,,,x,
-C,C,WHANG,WEB,หมวยใหญ่,MUAYYAI,อิ๋ว N5,อิ๋ว-เว็ป,อิ๋ว N5,N5W,T,,,x,
-C,C,WHANG,WEB,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,x,
-P,P,WHANG,WEB,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,x,
-C,C,WHANG,รายการ RN,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,,x
-P,P,WHANG,รายการ RN,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,,x
-C,P,WHANG,รายการ RN,หมวยใหญ่,MUAYYAI,เปิ้ล โป๊ว RN,เปิ้ล โป๊ว RN,เปิ้ล โป๊ว RN,RNP,T,,,,x
-C,C,WHANG,รายการ RN,หมวยใหญ่,MUAYYAI,RN โป๊ว เปิ้ล,RN โป๊ว เปิ้ล,RN โป๊ว เปิ้ล,RNP,T,,,,x
-C,P,WHANG,รายการ RN,หมวยใหญ่,MUAYYAI,RN โป๊ว แตง,เปิ้ิ้ลโป๊วแตง,RN โป๊ว แตง,RNT,T,,,,x
-P,P,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,Aood,อู๊ด,Aood,AO,T,,,,x
-C,C,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,,x
-P,P,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,,x
-C,C,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,,x
-P,P,WHANG,รายการโป๊ว,หมวยใหญ่,MUAYYAI,RN,ป้าดี,RN,RN,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,หุ้นกับอู๊ด,อู๊ด,หุ้นกับอู๊ด,AO,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,,x
-P,P,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อู๊ด,อู๊ด,อู๊ด,AO,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,อู๊ด web,อู๊ด,อู๊ด web,AO,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,เจน,เจน,เจน,JANE,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,ไก่นา,ไก่นา,K11,K11,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,นาสีทอง,นาสีทอง,นาสีทอง,N11,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,N5,อิ๋ว,N5,N5,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,เจ๊คนเดียว RN,เจ๊คนเดียว RN,เจ๊คนเดียว RN,RNA,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,เซิ่น,เซิ่น,เซิ่น,SERN,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,สุพิศ,สุพิศ,สุพิศ,SP,T,,,,x
-C,C,WHANG,หมวยใหญ่,หมวยใหญ่,MUAYYAI,Z10,Z10,Z10,Z10,T,,,,x
-C,C,WHANG,WEB,หมู,MOO,K4,มณี,K4,K04,T,,,x,
-C,C,WHANG,WEB,หมู,MOO,K21,S,K21,K21,T,,,x,
-C,C,WHANG,หมู,หมู,MOO,Best,เบส,Best,BEST,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,เล็กนคร,เล็กนคร,เล็กนคร,BO,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,เจ้เชง,เจ้เชง,เจ้เชง,CH,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,จิตติ,จิตติ,JIT,JIT,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,มK,มณี,K4,K04,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,S,S,K21,K21,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,ขวัญ,ขวัญ-พนง,ขวัญ,KKM,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,เกียง,เจ้เกียง,N15,N15,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,ฤดี,เจ้ฤดี,N16,N16,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,นิคม,นิคม,นิคม,NK,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,สาวขวัญ,สาวขวัญ,สาวขวัญ,SAOKWAN,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,TOOK,TOOK,TOOK,TOOK,T,,,,x
-C,C,WHANG,หมู,หมู,MOO,Z8,Z08,Z8,Z08,T,,,,x
+._MODE,._NEW_MODE,._NEW_MANAGER,._W,._NEW_W,._WORKER_USER,._NICK,._NEW_NICK,._USER,._NEW_USER,._TYPE,._MALAY_W,._MALAY_P,._THAI_W,._THAI_P,._W,._P
+P,P,WHANG,รายการโป๊ว,นา,NA,24LOT,24LOT,24LOT,24LOT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,24Lot,24LOT,24Lot,24LOT,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,เอ๋ Agent,เอ๋-ชาติ,เอ๋ Agent,A01,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,เอ๋/ชาติ,เอ๋-ชาติ,เอ๋/ชาติ,A01,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,เอ๋/ชาติ,เอ๋-ชาติ,เอ๋/ชาติ,A01,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,ควร,ควร,ควร,A03,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,ควร agent,ควร,ควร agent,A03,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,พี่ควร,ควร,พี่ควร,A03,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,พี่ควร,ควร,พี่ควร,A03,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,พี่ควร,ควร,พี่ควร,A03,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ควร,ควร,ควร,A03,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,พี่ควร,ควร,พี่ควร,A03,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,พี่ควร,ควร,พี่ควร,A03,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,พี่ควร / A03,ควร,พี่ควร / A03,A03,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,อุ๊ S,อุ๊S,อุ๊ S,A04,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,อุ๊S / A04,อุ๊S,อุ๊S / A04,A04,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,A08,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,อ้อยภูเก็ต-เว็ป,อ้อยภูเก็ต,อ้อยภูเก็ต-เว็ป,A08,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,A08,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,อ้อยภูเก๊ต,อ้อยภูเก็ต,อ้อยภูเก๊ต,A08,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,A08,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,A08,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,อ้อย,อ้อยภูเก็ต,อ้อย,A08,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,อ้อยภูเก็ต,อ้อยภูเก็ต,อ้อยภูเก็ต,A08,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,อ้อยภูเก๊ต,อ้อยภูเก็ต,อ้อยภูเก๊ต,A08,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,อ้อยภูเก็ต-เว็ป,อ้อยภูเก็ต,อ้อยภูเก็ต-เว็ป,A08,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,กัปตัน,กัปตัน,A11,A11,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,กัปตัน เงินสด,กัปตัน,กัปตัน เงินสด,A11,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ปู,กัปตัน,ปู,A11,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,กัปตัน,กัปตัน,กัปตัน,A11,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,กัปตัน /A11,กัปตัน,กัปตัน /A11,A11,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,สด-จ่านวย,จ่าหนวย,สด-จ่านวย,AA,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,AA,จ่าหนวย,AA,AA,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,AA,จ่าหนวย,AA,AA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,อ้อยฉ่อย,อ้อยฉ่อย,อ้อยฉ่อย,AC,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,นก,นก-จ,นก,AI,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,นก - .จ,นก-จ,นก - .จ,AI,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,นก จ.,นก-จ,นก จ.,AI,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เป็ด เอไอเอ,เป๊ด-AIA,เป็ด เอไอเอ,AIA,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เป็ด-AIA,เป๊ด-AIA,เป็ด-AIA,AIA,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เป็ด-เอไอเอ,เป๊ด-AIA,เป็ด-เอไอเอ,AIA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,เป็ด AIA,เป๊ด-AIA,เป็ด AIA,AIA,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,จ,จ,จ,AJ,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,จ.,จ,จ.,AJ,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,จ.,จ,จ.,AJ,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,จ.,จ,จ.,AJ,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,จ. / AJ,จ,จ. / AJ,AJ,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,จ,จ,จ,AJ,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,จ.,จ,จ.,AJ,M,Y,N,N,N,Y,N
+C,C,WHANG,เล็ก,นา,NA,เจ้ง้อ,เจ้ง้อ,เจ้ง้อ,AK,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,เจ้ง้อ / Ak,เจ้ง้อ,เจ้ง้อ / Ak,AK,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,คม,อาคม,คม,AKOM,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,พี่คม,อาคม,พี่คม,AKOM,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,สด-พี่คม,อาคม,สด-พี่คม,AKOM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่คม,อาคม,พี่คม,AKOM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่คม WEB,อาคม,พี่คม WEB,AKOM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่คม web,อาคม,พี่คม web,AKOM,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,พี่คม,อาคม,พี่คม,AKOM,M,Y,N,N,N,Y,N
+P,P,WHANG,รายการโป๊ว,นา,NA,อลอนสตาร์,อลอนสตาร์,อลอนสตาร์,ALORSETA,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ทิพย์,ทิพย์,ทิพย์,AN1,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,หนุ่ย-ตรัง,หนุ่ยตรัง,ANU,ANU,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,หนุ่ยตรัง,หนุ่ยตรัง,หนุ่ยตรัง,ANU,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,aood,อู๊ด,aood,AO,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Aood,อู๊ด,Aood,AO,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,หุ้นกับอู๊ด,อู๊ด,หุ้นกับอู๊ด,AO,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,อู๊ด web,อู๊ด,อู๊ด web,AO,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,อู๊ด,อู๊ด,อู๊ด,AO,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,อู๊ด / AO,อู๊ด,อู๊ด / AO,AO,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,อ้อยซ้ายขวัญ,อ้อยซ้ายขวัญ,อ้อยซ้ายขวัญ,AOIKWAN,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,ตี๋-แอ๋ว,ตี๋-แอ๋ว,ตี๋-แอ๋ว,AOQ,M,N,Y,N,N,N,Y
+C,C,WHANG,นู,นา,NA,อู๊ดสตูล,อู๊ดสตูล,อู๊ดสตูล,AOSATUN,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,เพื่อนอู๊ด web,แอ๋ว-อู๊ด,เพื่อนอู๊ด web,AQ,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,AQ,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,เพื่อนอู๊ด,แอ๋ว-อู๊ด,เพื่อนอู๊ด,AQ,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,แอ๋ว-อู๊ด,AQ,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,อ้อยระโนด,อ้อยระโนด,อ้อยระโนด,AR,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,อารี,อารี,อารี,AREE,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,อารี,อารี,อารี,AREE,M,Y,N,N,N,Y,N
+C,C,WHANG,นา,นา,NA,เทียนจ่อ,เทียนจ่อ,เทียนจ่อ,AT,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,A เทียน,เทียนจ่อ,A เทียน,AT,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,เทียนจ่อ,เทียนจ่อ,เทียนจ่อ,AT,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,A เทียน,เทียนจ่อ,A เทียน,AT,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ยิน,ยิน,ยิน,AY,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,ยิน,ยิน,ยิน,AY,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,ยิน,ยิน,ยิน,AY,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,ยิน / AY,ยิน,ยิน / AY,AY,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,นา,นา-B11,B11,B11,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,นา / B11,นา-B11,นา / B11,B11,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,สำอางค์,สำอางค์,สำอางค์,B5,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,B6,บี6,B6,B6,T,N,N,Y,N,Y,
+C,C,WHANG,ชิง,นา,NA,B,บี6,B,B6,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,B6 / บี,บี6,B6 / บี,B6,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,B6,บี6,B6,B6,M,Y,N,N,N,Y,N
+C,C,WHANG,อ,นา,NA,B6 / บี,บี6,B6 / บี,B6,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,วีระ,วีระ,B9,B9,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,วีระ / B9,วีระ,วีระ / B9,B9,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,บ่าว พ.น.ง,บ่าว-พนง,บ่าว พ.น.ง,BAOPN,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,บ่าว พ.น.ง,บ่าว-พนง,บ่าว พ.น.ง,BAOPN,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เบลล์,เบลล์,เบลล์,BELL,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,Best,เบส,Best,BEST,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,เล็กนคร,เล็กนคร,เล็กนคร,BO,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,เพื่อนอร,เล็กนคร,เพื่อนอร,BO,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,เพื่อนอรญา,เล็กนคร,เพื่อนอรญา,BO,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,เล็กนคร,เล็กนคร,เล็กนคร,BO,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,BOY,บอย,BOY,BOY,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,บอย agent,บอย,บอย agent,BOY,T,N,N,Y,N,Y,
+C,C,WHANG,ชิง,นา,NA,บอย,บอย,บอย,BOY,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,บอย,บอย,บอย,BOY,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,บอย,บอย,บอย,BOY,M,Y,N,N,N,Y,N
+C,C,WHANG,อ,นา,NA,บอย,บอย,บอย,BOY,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,ม.เบตง,รุ่ง-เบตง,ม.เบตง,BT,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,รุ่ง.เบตง,รุ่ง-เบตง,รุ่ง.เบตง,BT,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,รุ่ง.ม,รุ่ง-เบตง,รุ่ง.ม,BT,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เฮีย C,เฮีย-C,เฮีย C,C,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,เฮียC,เฮีย-C,เฮียC,C,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ออง,ออง-ชน,ออง,CA,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ออง,ออง-ชน,ออง,CA,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ออง-ชน,ออง-ชน,ออง-ชน,CA,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,การ์ตูน,การ์ตูน,การ์ตูน,CARTOON,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ชาญชัย,ชาญชัย,ชาญชัย,CC,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,ชาญชัย,ชาญชัย,ชาญชัย,CC,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,ชาญขัย,ชาญชัย,ชาญขัย,CC,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ชาญชัย,ชาญชัย,ชาญชัย,CC,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,เจ้เชง,เจ้เชง,เจ้เชง,CH,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,เจ้เชง,เจ้เชง,เจ้เชง,CH,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,เจ๊เชง,เจ้เชง,เจ๊เชง,CH,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,เจ้เชง / CH,เจ้เชง,เจ้เชง / CH,CH,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ชาย,ชาย-โป๊ว,ชาย,CHAI,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,Y,N,Y,
+P,P,WHANG,WEB,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,Boss,ฉ่อย,Boss,CHOI,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,Boss,ฉ่อย,Boss,CHOI,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ฉ่อย web,ฉ่อย,ฉ่อย web,CHOI,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Boss,ฉ่อย,Boss,CHOI,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,BOSS,ฉ่อย,BOSS,CHOI,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Boss,ฉ่อย,Boss,CHOI,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ฉ่อย,ฉ่อย,ฉ่อย,CHOI,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,ฉอ,ฉอ,ฉอ,CHOR,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,ฉอ,ฉอ,ฉอ,CHOR,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ฉอ,ฉอ,ฉอ,CHOR,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,โฉม,โฉม,โฉม,CHORM,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,โฉม,โฉม,โฉม,CHORM,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ญา-ชุมพร,ญา-ชุมพร,ญา-ชุมพร,CHUMPHON,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ญาชุมพร,ญา-ชุมพร,ญาชุมพร,CHUMPHON,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,ชัช,ชัช,ชัช,CHUT,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,จุง,จุง,จุง,CJ,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,จุง,จุง,จุง,CJ,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,พี่ชน,ชุมชน,พี่ชน,CNN,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,พี่ชน,ชุมชน,พี่ชน,CNN,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ชุมชน,ชุมชน,ชุมชน,CNN,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ชุมชน / CNN,ชุมชน,ชุมชน / CNN,CNN,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ชุมชน,ชุมชน,ชุมชน,CNN,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ป้าแผ้ว,ป้าแผ้ว,ป้าแผ้ว,CP,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ป้าแผ้ว,ป้าแผ้ว,ป้าแผ้ว,CP,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,จรินทร์,จรินทร์,จรินทร์,CR,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,จรินทร์,จรินทร์,จรินทร์,CR,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,จริญ-ชน,จรินทร์,จริญ-ชน,CR,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,CT,เชษZ8,CT,CT,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,CT-เชษz8,เชษZ8,CT-เชษz8,CT,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,ZA,เชษZ8,ZA,CT,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ช้างตานี,ช้างตานี,ช้างตานี,CTN,T,N,N,Y,N,Y,
+C,C,WHANG,จิ้น,นา,NA,ช้างตานี,ช้างตานี,ช้างตานี,CTN,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,ช้างตานีweb,ช้างตานี,ช้างตานีweb,CTN,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ปุ๋ย/ชน,ปุ๋ย-ชน,ปุ๋ย/ชน,CU,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ปุ๋ย/ชน,ปุ๋ย-ชน,ปุ๋ย/ชน,CU,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ปุ๋ย-ชน,ปุ๋ย-ชน,ปุ๋ย-ชน,CU,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ปุ๋ย-ชน,ปุ๋ย-ชน,ปุ๋ย-ชน,CU,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ปุ๋ยชล,ปุ๋ย-ชน,ปุ๋ยชล,CU,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,เดียร์,เดียร์-ชน,เดียร์,DIA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,เดียร์,เดียร์-ชน,เดียร์,DIA,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เดียร์,เดียร์-ชน,เดียร์,DIA,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เดียร์-ชน,เดียร์-ชน,เดียร์-ชน,DIA,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,พี่เอียดบ้าน,เอียดบ้าน,พี่เอียดบ้าน,EIATB,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,เอิบ,เอิบ,เอิบ,ER,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,เอิบ / ER,เอิบ,เอิบ / ER,ER,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,FAR,ฟ้า,FAR,FAR,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,ฟ้า,ฟ้า,ฟ้า,FAR,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,นุช future,ฟิวเจอร์,นุช future,FL,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,ฟิวเจอร์,ฟิวเจอร์,ฟิวเจอร์,FL,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ฟิวเจอร์,ฟิวเจอร์,ฟิวเจอร์,FL,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,ฟิวเจอร์ / FL,ฟิวเจอร์,ฟิวเจอร์ / FL,FL,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,นุช,ฟิวเจอร์,นุช,FL,M,Y,N,N,N,Y,N
+C,C,WHANG,นา,นา,NA,แกะ,แกะ,แกะ,GAE,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,แก้ว,แก้ว,แก้ว,GAEW,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,แก้ว,แก้ว,แก้ว,GAEW,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,เก๋ ม.,เก๋-ม,เก๋ ม.,GAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,เก๋.ม,เก๋-ม,เก๋.ม,GAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,กล้วย .ม,กล้วย-ม,กล้วย .ม,GLUAIM,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,โกอั๋น,โกอั๋น,โกอั๋น,GOAN,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ศักดา,ศักดา,ศักดา,GODA,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ศักดา,ศักดา,ศักดา,GODA,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,GODA,ศักดา,GODA,GODA,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ศักดา,ศักดา,ศักดา,GODA,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ศักดา,ศักดา,ศักดา,GODA,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,โกเก้า,โกเก้า,โกเก้า,GOGAO,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ก้อย,ก้อย-ม,ก้อย,GOIM,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ก้อย ม.,ก้อย-ม,ก้อย ม.,GOIM,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,ก้อย .ม,ก้อย-ม,ก้อย .ม,GOIM,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,โกซี่ปัตตานี,โกซี่ปัตตานี,โกซี่ปัตตานี,GOSI,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,โก้ web,โก้,โก้ web,GOW,T,N,N,Y,N,Y,
+P,P,WHANG,รายการโป๊ว,นา,NA,GREEN,เว็บเขียว,GREEN,GREEN,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,เว็บเขียว,เว็บเขียว,เว็บเขียว,GREEN,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ก.ท.,กท,ก.ท.,GT,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,กท,กท,กท,GT,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,กื้อ,กื้อ,กื้อ,GYALA,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เฮียง / สด,เฮียง-หน่ำ,เฮียง / สด,HN,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เฮียงสด,เฮียง-หน่ำ,เฮียงสด,HN,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,เฮียง/หน่ำ,เฮียง-หน่ำ,เฮียง/หน่ำ,HN,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,พี่ณี-หน่ำ,พี่ณี-หน่ำ,พี่ณี-หน่ำ,HNN,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,พี่ณี-หน่ำ,พี่ณี-หน่ำ,พี่ณี-หน่ำ,HNN,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,HT/เฮี้ยงตรัง,เฮี้ยงตรัง,HT/เฮี้ยงตรัง,HT,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,INK,อิ้ง,INK,INK,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,Ink / อิ้ง,อิ้ง,Ink / อิ้ง,INK,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Jim padung,จิ๋มปาดัง,Jim padung,J1,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,N,N,Y,N,Y,
+C,C,WHANG,กิ่ง,นา,NA,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,M,Y,N,N,N,Y,N
+C,C,WHANG,จิ้น,นา,NA,จิม,จิ๋มปาดัง,จิม,J1,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,จิ๋ม,จิ๋มปาดัง,จิ๋ม,J1,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,จิ๋มปาดัง,จิ๋มปาดัง,จิ๋มปาดัง,J1,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,จ๋า,จ๋า,จ๋า,JA,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,เจน,เจน,เจน,JANE,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,เจ,เจ,เจ,JAY,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,เจ่าเบตง,เจ่าเบตง,BT,JBT,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,เจ่าเบตง,เจ่าเบตง,เจ่าเบตง,JBT,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,เจ่าเบตง,เจ่าเบตง,เจ่าเบตง,JBT,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี๊,นา,NA,เจ่าเบตง,เจ่าเบตง,BT,JBT,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,เจี๊ยบ,เจี๊ยบ,เจี๊ยบ,JEAB,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,เจี๊ยบ,เจี๊ยบ,เจี๊ยบ,JEAB,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ปีนัง,ปีนัง1,1,JESSY1,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ปีนัง Ringgit,ปีนัง1,ปีนัง Ringgit,JESSY1,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ปีนัง,ปีนัง2,2,JESSY2,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,จิ๋ม,คุณจิ๋ม,จิ๋ม,JIM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,k จิ๋ม,คุณจิ๋ม,k จิ๋ม,JIM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,คุณจิ๋ม,คุณจิ๋ม,คุณจิ๋ม,JIM,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,จิรา,จิรา,จิรา,JIRA,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,JITTI,จิตติ,JITTI,JIT,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,จิตติ,จิตติ,จิตติ,JIT,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,จิตติ,จิตติ,จิตติ,JIT,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,จิตติ,จิตติ,จิตติ,JIT,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,จิตติ,จิตติ,JIT,JIT,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,จิตติ,จิตติ,จิตติ,JIT,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,จิตติ / JIT,จิตติ,จิตติ / JIT,JIT,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Jin Agent,จิิ้น,Jin Agent,JJ,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,JJ,จิิ้น,JJ,JJ,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,JJ/จิ้น,จิิ้น,JJ/จิ้น,JJ,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,JJ,จิิ้น,JJ,JJ,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,JJ,จิิ้น,JJ,JJ,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,JJ / จิ้น,จิิ้น,JJ / จิ้น,JJ,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,JJ,จิิ้น,JJ,JJ,M,Y,N,N,N,Y,N
+C,C,WHANG,ตั๊ก,นา,NA,จุก,จุก-NUSKIN,จุก,JUK,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่จุก,จุก-NUSKIN,พี่จุก,JUK,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,เจ้ยู้,เจ้ยู้,เจ้ยู้,JYU,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,COMMISSION,COMMISSION,%ช้างตานี,ลัดดา,%ช้างตานี,K01,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,COMMISSION,COMMISSION,1 % สุมล,ลัดดา,1 % สุมล,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,COMMISSION,COMMISSION,3 % สุมล,ลัดดา,3 % สุมล,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,COMMISSION,COMMISSION,% สุมล,ลัดดา,% สุมล,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,COMMISSION,COMMISSION,% สุมล,ลัดดา,% สุมล,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ลัดดา / K1,ลัดดา,ลัดดา / K1,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,ลัดดา,ลัดดา,K1,K01,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,ลัดดา,ลัดดา,K1,K01,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,ลัดดา,ลัดดา,K1,K01,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,ลัดดา,ลัดดา,ลัดดา,K01,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,K4,มณี,K4,K04,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,K4,มณี,K4,K04,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,มK,มณี,K4,K04,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,K4/มณี,มณี,K4/มณี,K04,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,เมา,เมา,K8,K08,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,เมา,เมา,เมา,K08,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,เมา / K8,เมา,เมา / K8,K08,M,N,Y,N,N,N,Y
+C,C,WHANG,อ,นา,NA,เมา / K8,เมา,เมา / K8,K08,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,แอ๊ะ,แอ๊ะ,K9,K09,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,K.9 / แอ๊ะ,แอ๊ะ,K.9 / แอ๊ะ,K09,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,K9,แอ๊ะ,K9,K09,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,แอ็ะ K9,แอ๊ะ,แอ็ะ K9,K09,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,แอ๊ะ,แอ๊ะ,K9,K09,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,แอ๊ะ / K9,แอ๊ะ,แอ๊ะ / K9,K09,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,แอ๊ะ K9,แอ๊ะ,แอ๊ะ K9,K09,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,แอ๊ะK9,แอ๊ะ,แอ๊ะK9,K09,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,ไก่นา,ไก่นา,K11,K11,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,ไก่นา,ไก่นา,ไก่นา,K11,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,ไก่นา / K11,ไก่นา,ไก่นา / K11,K11,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,หยก,หยกนาประดู่,หยก,K12,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,หยก นาประดู่,หยกนาประดู่,หยก นาประดู่,K12,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,หยกนาประดู่,หยกนาประดู่,หยกนาประดู่,K12,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,YOK / หยก,หยกนาประดู่,YOK / หยก,K12,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,หยก,หยกนาประดู่,หยก,K12,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,หยก,หยกนาประดู่,หยก,K12,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ตุง,ตุง,K15,K15,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ตุง / K15,ตุง,ตุง / K15,K15,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,จทน.,จทน,K17,K17,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,จ.ท.น,จทน,จ.ท.น,K17,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,สุมล,สุมล,K18,K18,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,สุมล,สุมล,สุมล,K18,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,สุมล,สุมล,สุมล,K18,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,สุมล,สุมล,K18,K18,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,สุมล,สุมล,สุมล,K18,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,สุมล / K18,สุมล,สุมล / K18,K18,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,สุมล,สุมล,K18,K18,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,สุมล,สุมล,สุมล,K18,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,K21,S,K21,K21,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,K21,S,K21,K21,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,S,S,K21,K21,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,S / K21,S,S / K21,K21,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,หน่อง,หน่อง,หน่อง,K22,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,หน่อง / K22,หน่อง,หน่อง / K22,K22,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เษม,เสม,เษม,K23,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,เสม /K23,เสม,เสม /K23,K23,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,คาวา,คาวา,คาวา,KA,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,คาวา,คาวา,คาวา,KA,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,คาวา,คาวา,คาวา,KA,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,คาวา,คาวา,คาวา,KA,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,คาวา,คาวา,คาวา,KA,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,เขียว.ม,เขียว-ม,เขียว.ม,KEAWM,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,เขียวสด.ม,เขียว-ม,เขียวสด.ม,KEAWM,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ก. นีย์,ก.นีย์,ก. นีย์,KI,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ก.นี่ย์ / KI,ก.นีย์,ก.นี่ย์ / KI,KI,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ก.นีย์,ก.นีย์,ก.นีย์,KI,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เกี่ยง-เว็ป,เกี่ยง-ม,เกี่ยง-เว็ป,KIANGM,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เกี่ยง ม.,เกี่ยง-ม,เกี่ยง ม.,KIANGM,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เกี่ยง ม.,เกี่ยง-ม,เกี่ยง ม.,KIANGM,M,Y,N,N,N,Y,N
+C,C,WHANG,ตั๊ก,นา,NA,กิจวัตร,กิจวัตร,กิจวัตร,KITJA,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,KK,เจ้เกียว,KK,KK,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,เกียว / KK,เจ้เกียว,เกียว / KK,KK,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,KOSUKE,Kosuke,KOSUKE,KKA1,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,เพื่อนน้องพีท,Kosuke,เพื่อนน้องพีท,KKA1,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,เพื่อนน้องพีท,Kosuke,เพื่อนน้องพีท,KKA1,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,เพื่อนพีท,Kosuke,เพื่อนพีท,KKA1,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เพื่อนพีท,Kosuke,เพื่อนพีท,KKA1,M,Y,N,N,N,Y,N
+C,C,WHANG,ชาติ,นา,NA,เพื่อนพีท,Kosuke,(เว็ป),KKA1,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,เพื่อนพีท-เว็ป,Kosuke,เพื่อนพีท-เว็ป,KKA1,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ขวัญ,ขวัญ-พนง,ขวัญ,KKM,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,ขวัญ,ขวัญ-พนง,ขวัญ,KKM,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,ป๋วย,ป๋วย,ป๋วย,KKPP,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,ป๋วย / KK,ป๋วย,ป๋วย / KK,KKPP,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,ป๋วย/kk,ป๋วย,ป๋วย/kk,KKPP,M,N,Y,N,N,N,Y
+C,C,WHANG,นู,นา,NA,ขวัญ,ของขวัญ,ขวัญ,KKWAN,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,พี่ก้อง,ก้อง,พี่ก้อง,KONG,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,ก้อง,ก้อง,ก้อง,KONG,M,Y,N,N,N,Y,N
+C,C,WHANG,ชาติ,นา,NA,ก้อง,ก้อง,ก้อง,KONG,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,K/ป โกสรวง,โกสรวง,K/ป โกสรวง,KS,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,ส.นรา,โกสรวง,ส.นรา,KS,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ส.นรา / KS,โกสรวง,ส.นรา / KS,KS,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,K/ป โกสรวง,โกสรวง,K/ป โกสรวง,KS,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ส.นรา,โกสรวง,ส.นรา,KS,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Jakhoy,KT,Jakhoy,KT,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,KT,KT,KT,KT,T,N,N,Y,N,Y,
+P,P,WHANG,WEB,นา,NA,KT,KT,KT,KT,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,KT,KT,KT,KT,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,KT,KT,KT,KT,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,KT web,KT,KT web,KT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,KT,KT,KT,KT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,KT,KT,KT,KT,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,ขวัญข้าว .ม,ขวัญข้าว-ม,ขวัญข้าว .ม,KWANKAO,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ขวัญ,ขวัญ-สุดใจ,ขวัญ,KWANSUT,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,DD,DD,DD,L04,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,DD,DD,DD,L04,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,DD / L4,DD,DD / L4,L04,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,DD / L4,DD,DD / L4,L04,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,DD,DD,DD,L04,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,ทอง / L7,ทอง,ทอง / L7,L07,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L09,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L09,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ตา,ตาโฮเต็ล,ตา,L09,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,ตา L9,ตาโฮเต็ล,ตา L9,L09,M,Y,N,N,N,Y,N
+C,C,WHANG,ตั๊ก,นา,NA,ตา,ตาโฮเต็ล,ตา,L09,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,ตาโฮเต็ล L9,ตาโฮเต็ล,ตาโฮเต็ล L9,L09,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,เล็ก.ม,เล็ก-ม,เล็ก.ม,LEKM,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Lion,ไลอ้อน,Lion,LI,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,Lion,ไลอ้อน,Lion,LI,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ไลอ้อน,ไลอ้อน,ไลอ้อน,LI,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,ไลอ้อน / LI,ไลอ้อน,ไลอ้อน / LI,LI,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ไลอ้อน,ไลอ้อน,ไลอ้อน,LI,M,Y,N,N,N,Y,N
+C,C,WHANG,ชิง,นา,NA,เล็กเสริมสวย,เล็กเสริมสวย,เล็กเสริมสวย,LSS,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,เล็กเสริมสวย,เล็กเสริมสวย,เล็กเสริมสวย,LSS,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,LT,LT,LT,LT,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,LT,LT,LT,LT,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,LT,LT,LT,LT,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,ลักษณ์,ลักษณ์,ลักษณ์,LYX,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ลักษณ์,ลักษณ์,ลักษณ์,LYX,M,Y,N,N,N,Y,N
+C,C,WHANG,ตี้,นา,NA,ลักษณ์,ลักษณ์,ลักษณ์,LYX,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,ลักษณ์ .ม,ลักษณ์,ลักษณ์ .ม,LYX,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,M ซิน,M-ซิน,M ซิน,M,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,M / ซิน,M-ซิน,M / ซิน,M,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ผึ้ง,ผึ้ง-ม,ผึ้ง,M006,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,ผึ้ง ม.,ผึ้ง-ม,ผึ้ง ม.,M006,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,คุณยาย/ม,คุณยายแมรี่,คุณยาย/ม,MARY,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,Mary AGENT,คุณยายแมรี่,Mary AGENT,MARY,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,ยายแมรี่,คุณยายแมรี่,ยายแมรี่,MARY,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,คุณยาย/ม,คุณยายแมรี่,คุณยาย/ม,MARY,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,คุณยาย,คุณยายแมรี่,คุณยาย,MARY,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ม.,คุณยายแมรี่,ม.,MARY,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Marry,คุณยายแมรี่,Marry,MARY,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Mary,คุณยายแมรี่,Mary,MARY,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,ม,คุณยายแมรี่,ม,MARY,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ม.,คุณยายแมรี่,ม.,MARY,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ม.(พี่แก่น),คุณยายแมรี่,ม.(พี่แก่น),MARY,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,.ม,คุณยายแมรี่,.ม,MARY,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,คุณยาย/ม,คุณยายแมรี่,คุณยาย/ม,MARY,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,หมอแดง,หมอแดง,หมอแดง,MD,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,มังกร,มังกร,มังกร,MG,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,M ลี,M-ลี,M ลี,ML,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,MUAYNARA,หมวยนรา,MUAYNARA,MN,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,หมวยนรา,หมวยนรา,MN,MN,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,หมวยนรา,หมวยนรา,หมวยนรา,MN,M,Y,N,N,N,Y,N
+C,C,WHANG,WEB,นา,NA,มด,มด,มด,MOD,T,N,N,Y,N,Y,
+C,C,WHANG,หน่อย,นา,NA,มด,มด,มด,MOD,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,แม่เปิ้ล,แม่เปิ้ล,แม่เปิ้ล,MP,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,แม่เปิ้ล,แม่เปิ้ล,แม่เปิ้ล,MP,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,มาย,มาย,My,MY,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,มาย,มาย,มาย,MY,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,มาย,มาย,My,MY,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,มาย,มาย,มาย,MY,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,มาย,มาย,มาย,MY,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,น้อง,น้อง,น้อง,N,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,น้อง / N,น้อง,น้อง / N,N,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,กฤษ,กฤษ,N2,N02,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,พี่กฤษ / n2,กฤษ,N2,N02,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,พี่กฤษ,กฤษ,พี่กฤษ,N02,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,โอ่ง,โอ่ง,โอ่ง,N03,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,โอ่ง,โอ่ง,N3,N03,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,โอ่ง,โอ่ง,โอ่ง,N03,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,โอ่ง / N3,โอ่ง,โอ่ง / N3,N03,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,โอ่ง,โอ่ง,โอ่ง,N03,M,Y,N,N,N,Y,N
+C,C,WHANG,WEB,นา,NA,ANN,แอน,ANN,N04,T,N,N,Y,N,Y,
+C,C,WHANG,กิ่ง,นา,NA,แอน,แอน,แอน,N04,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,แอน,แอน,N4,N04,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,แอนวัด,แอน,แอนวัด,N04,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,แอน,แอน,แอน,N04,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,แอน,แอน,N4,N04,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,แอน,แอน,แอน,N04,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,แอนวัด,แอน,แอนวัด,N04,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,แอนวัดโคก,แอน,แอนวัดโคก,N04,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,แอนวัดโคก,แอนวัดโคก,แอนวัดโคก,N04,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,N5,อิ๋ว,N5,N05,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,พี่อิ๋ว /N5,อิ๋ว,พี่อิ๋ว /N5,N05,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,N5,อิ๋ว,N5,N05,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,อิ๋ว,อิ๋ว-เว็ป,อิ๋ว,N05W,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,อิ๋ว N5,อิ๋ว-เว็ป,อิ๋ว N5,N05W,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,อิ๋ว N5,อิ๋ว-เว็ป,อิ๋ว N5,N05W,M,Y,N,N,N,Y,N
+C,C,WHANG,WEB,นา,NA,N6,กาแฟ,N6,N06,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,กาแฟ,กาแฟ,กาแฟ,N06,T,N,N,Y,N,Y,
+C,C,WHANG,กิ่ง,นา,NA,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,กาแฟ,กาแฟ,N6,N06,T,N,N,N,Y,,Y
+C,C,WHANG,พี่นา,นา,NA,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,กาแฟ,กาแฟ,กาแฟ,N06,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,กาแฟ,กาแฟ,N6,N06,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,กาแฟ web,กาแฟ,กาแฟ web,N06,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,กาแฟ / N6,กาแฟ,กาแฟ / N6,N06,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,N7/โกต้า,โกต้า,N7/โกต้า,N07,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,หยง,หยง,หยง,N08,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,N8,หยง,N8,N08,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,หยง,หยง,N8,N08,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,หยง,หยง,หยง,N08,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,หยง / N8,หยง,หยง / N8,N08,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,หยง,หยง,หยง,N08,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,หยง,หยง,หยง,N08,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ทล,ทล,ทล,N10,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,ทล,ทล,N10,N10,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ท.ล,ทล,ท.ล,N10,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ท.ล / N10,ทล,ท.ล / N10,N10,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,นาสีทอง,นาสีทอง,นาสีทอง,N11,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,นาสีทอง,นาสีทอง,นาสีทอง,N11,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,นาสีทอง,นาสีทอง,นาสีทอง,N11,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,แตง,แตง,แตง,N12,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,แตง / N12,แตง,แตง / N12,N12,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,พรแก็ส,พรแก๊ส,N13,N13,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,พรแก๊ส,พรแก๊ส,พรแก๊ส,N13,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,พรแก๊ส / N13,พรแก๊ส,พรแก๊ส / N13,N13,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ลี่ /N14,ลี่,ลี่ /N14,N14,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ลี่ /N14,ลี่,ลี่ /N14,N14,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ลี่,ลี่,ลี่,N14,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,ลี่ /N14,ลี่,ลี่ /N14,N14,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เกียง N15,เจ้เกียง,เกียง N15,N15,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,เกียงN15,เจ้เกียง,เกียงN15,N15,M,Y,N,N,N,Y,N
+C,C,WHANG,หมู,นา,NA,เกียง,เจ้เกียง,N15,N15,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,เกียง / N15,เจ้เกียง,เกียง / N15,N15,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ฤดี,เจ้ฤดี,N16,N16,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ฤดี,เจ้ฤดี,ฤดี,N16,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,N16 / ฤดี,เจ้ฤดี,N16 / ฤดี,N16,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ฤดี,เจ้ฤดี,ฤดี,N16,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,ฤดี,เจ้ฤดี,N16,N16,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,ฤดี / N16,เจ้ฤดี,ฤดี / N16,N16,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,อาโกว,อาโกว,อาโกว,N18,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,อาโกว / N18,อาโกว,อาโกว / N18,N18,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,อาโกว/N18,อาโกว,อาโกว/N18,N18,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,อาโกว,อาโกว,อาโกว,N18,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,โกว,อาโกว,โกว,N18,M,N,Y,N,N,N,Y
+C,C,WHANG,เล็ก,นา,NA,อาโกว/N18,อาโกว,อาโกว/N18,N18,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,นิด,นิด,N22,N22,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,ปุ๊ก,ปุ๊ก,ปุ๊ก,N25,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ปุ๊ก,ปุ๊ก,N25,N25,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ปุ๊ก,ปุ๊ก,ปุ๊ก,N25,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ปุ๊ก N.25,ปุ๊ก,ปุ๊ก N.25,N25,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,มลดี,มลดี,มลดี,N26,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,มลดี,มลดี,มลดี,N26,M,N,Y,N,N,N,Y
+C,C,WHANG,อ,นา,NA,มลดี,มลดี,มลดี,N26,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,จอส,จอส,จอส,N27,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,จอส,จอส,N27,N27,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,จอส,จอส,จอส,N27,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,จอส,จอส,จอส,N27,M,Y,N,N,N,Y,N
+C,C,WHANG,WEB,นา,NA,Na Condo,นาคอนโด,Na Condo,NACONDO,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,นาคอนโด,นาคอนโด,นาคอนโด,NACONDO,T,N,N,Y,N,Y,
+C,C,WHANG,เล็ก,นา,NA,นาแม่บ้าน,นาคอนโด,นาแม่บ้าน,NACONDO,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,นา .ม,นา-ม,นา .ม,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,นา ม.,นา-ม,นา ม.,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,นา .ม,นา-ม,นา .ม,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,นา ม.,นา-ม,นา ม.,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,นา.ม,นา-ม,นา.ม,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,นา .ม,นา-ม,นา .ม,NAM,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Nan,แนน,Nan,NAN,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,แนน,แนน,แนน,NAN,M,Y,N,N,N,Y,N
+P,P,WHANG,รายการโป๊ว,นา,NA,เฮียง้วน,เฮียง้วน,เฮียง้วน,NGUAN,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,นิตยา .ม,นิตยา-ม,นิตยา .ม,NITAYAM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,นิต .ม,นิต-ม,นิต .ม,NITM,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,นิคม,นิคม,นิคม,NK,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,นิคม,นิคม,นิคม,NK,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,นิคม / NK,นิคม,นิคม / NK,NK,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,หนู,หนู,หนู,NN,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,หนู,หนู,หนู,NN,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,หนู,หนู,NN,NN,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,หนู,หนู,หนู,NN,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,หนู / NN,หนู,หนู / NN,NN,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,หนู,หนู,หนู,NN,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,หนู,หนู,หนู,NN,M,Y,N,N,N,Y,N
+C,C,WHANG,กิ่ง,นา,NA,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,หนึ่ง .ม,หนึ่ง,หนึ่ง .ม,NO01,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,หนึ่ง / 1,หนึ่ง,หนึ่ง / 1,NO01,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,สอง / 2,สอง,สอง / 2,NO02,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,333,333,333,NO333,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,สาว.707.ม,สาว-707-ม,สาว.707.ม,NO707,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,B,บี6,B6,NO99,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,B/99,บี99,B/99,NO99,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,B99,บี99,B99,NO99,T,N,N,Y,N,Y,
+C,C,WHANG,เล็ก,นา,NA,99,บี99,99,NO99,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,99,บี99,99,NO99,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,99,บี99,99,NO99,M,Y,N,N,N,Y,N
+C,C,WHANG,เล็ก,นา,NA,วีระ,วีระ,วีระ,NO99,M,N,Y,N,N,N,Y
+C,C,WHANG,นู,นา,NA,น้อย,น้อย,น้อย,NOIGTM,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,นก กทม,นก-กทม,นก กทม,NOK,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,นกกทม.,นก-กทม,นกกทม.,NOK,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,นก .ก.ท.ม,นก-กทม,นก .ก.ท.ม,NOK,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,นก ก.ท.ม.,นก-กทม,นก ก.ท.ม.,NOK,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ตุ๊ก / N14,ตุ๊ก,ตุ๊ก / N14,NT,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ตุ๊ก / NT,ตุ๊ก,ตุ๊ก / NT,NT,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ตุ๊ก,ตุ๊ก,ตุ๊ก,NT,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,ตุ๊ก / NT,ตุ๊ก,ตุ๊ก / NT,NT,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,หนู,หนู-โป๊ว,หนู,NUUU,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,โอ,โอ,โอ,O,T,N,N,Y,N,Y,
+C,C,WHANG,กิ่ง,นา,NA,โอ / O,โอ,โอ / O,O,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,โอ / O,โอ,โอ / O,O,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,อร-รักษ์.ม,ออน-ลักษณ์,อร-รักษ์.ม,OL,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ออน-ลักษณ์,ออน-ลักษณ์,ออน-ลักษณ์,OL,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ออน-ลักษณ์,ออน-ลักษณ์,ออน-ลักษณ์,OL,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,อรญา .ม,อรญา-ม,อรญา .ม,ON,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,ออนสระผม,ออนสระผม,ออนสระผม,ONSAPROM,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,อ้วน,อ้วน,อ้วน,OO,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,อ้วน / OO,อ้วน,อ้วน / OO,OO,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,สด,อื่นๆ,สด,OTHERS,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,สด-วิน,อื่นๆ,สด-วิน,OTHERS,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,สด(เฮียเลี้ยง),อื่นๆ,สด(เฮียเลี้ยง),OTHERS,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,เพื่อนพี่เปิ้ล,อื่นๆ,เพื่อนพี่เปิ้ล,OTHERS,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,สด,อื่นๆ,สด,OTHERS,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,เงินสด,อื่นๆ,เงินสด,OTHERS,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,เงินสด,อื่นๆ,เงินสด,OTHERS,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,OTOP,โอท๊อป,OTOP,OTOP,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,OTOP Agent,โอท๊อป,OTOP Agent,OTOP,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,โอ Agent,โอท๊อป,โอ Agent,OTOP,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,โอ top,โอท๊อป,โอ top,OTOP,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,โอtop,โอท๊อป,โอtop,OTOP,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,OTOP,โอท๊อป,OTOP,OTOP,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,โอ๋,โอท๊อป,โอ๋,OTOP,M,Y,N,N,N,Y,N
+C,C,WHANG,หน่อย,นา,NA,ประดิษฐ์,ประดิษฐ์,ประดิษฐ์,P,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,ประดิษฐ์,ประดิษฐ์,ประดิษฐ์,P,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,พี่ภา Agent,ภา,พี่ภา Agent,PA,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,ภา,ภา,ภา,PA,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,R⁺,ภา,R⁺,PA,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,R+ web,ภา,R+ web,PA,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,พี่ภา,ภา,พี่ภา,PA,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,ภา,ภา,ภา,PA,M,Y,N,N,N,Y,N
+C,C,WHANG,นา,นา,NA,R+,ภา,R+,PA,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ภา พ.น.ง,ภา,ภา พ.น.ง,PA,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,ภา พนง,ภา,ภา พนง,PA,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,PAN,แผน,PAN,PAN,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,Pan Agent,แผน,Pan Agent,PAN,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,แผน,แผน,แผน,PAN,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,PENG,เพ้ง,PENG,PENG,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,ปุยฝ้าย,ปุยฝ้าย,ปุยฝ้าย,PF,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,ปุ้ยฝ้าย,ปุยฝ้าย,ปุ้ยฝ้าย,PF,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,พิมพร,พิมพร,พิมพร,PIMP,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,พิมพร,พิมพร,พิมพร,PIMP,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% T15,เปิ้ล%,2% T15,PLE,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% จิ๋ม,เปิ้ล%,2% จิ๋ม,PLE,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,COMMISSION,COMMISSION,2% มาย,เปิ้ล%,2% มาย,PLE,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,COMMISSION,COMMISSION,1% T17,เปิ้ล%,1% T17,PLE,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,โป้ง,โป้งทุ่งลุง,โป้ง,PONG,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พ,พ,PP,PP,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พ.,พ,พ.,PP,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,พ. / PP,พ,พ. / PP,PP,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,พร .ม,พร-ม,พร .ม,PRM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,พร.ม,พร-ม,พร.ม,PRM,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ปุ๊,ปุ๊-พี่คม,ปุ๊,PU,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ปุ๊-พี่คม,ปุ๊-พี่คม,ปุ๊-พี่คม,PU,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,ไร .ม,ไร-ม,ไร .ม,RAIM,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,RED,เว็ปแดง,RED,RED,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,เว็บแดง,เว็ปแดง,เว็บแดง,RED,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,รินทร์,รินทร์,รินทร์,RIN,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,รินทร์,รินทร์,รินทร์,RIN,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,กุ้ง,กุ้ง-RR,กุ้ง,RK,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,กุ้ง-RR,กุ้ง-RR,กุ้ง-RR,RK,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,กุ้งRR,กุ้ง-RR,กุ้งRR,RK,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,นา,NA,กุ้ง /RK,กุ้ง-RR,กุ้ง /RK,RK,M,N,Y,N,N,N,Y
+C,C,WHANG,รายการ RN,นา,NA,RN โป๊ว เปิ้ล,RN,RN โป๊ว เปิ้ล,RN,T,N,N,N,Y,,Y
+C,P,WHANG,รายการ RN,นา,NA,เปิ้ล โป๊ว RN,RN,เปิ้ล โป๊ว RN,RN,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,RNP,RN,RNP,RN,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,เจ๊คนเดียว,เจ๊คนเดียว RN,เจ๊คนเดียว,RNA,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,เจ๊คนเดียว,เจ๊คนเดียว RN,เจ๊คนเดียว,RNA,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,เจ๊คนเดียว RN,เจ๊คนเดียว RN,เจ๊คนเดียว RN,RNA,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,RN,เจ๊คนเดียว RN,RN,RNA,T,N,N,Y,N,Y,
+P,P,WHANG,WEB,นา,NA,RN,เจ๊คนเดียว RN,RN,RNA,T,N,N,Y,N,Y,
+C,C,WHANG,หมวยใหญ่,นา,NA,เจ๊คนเดียว RN,เจ๊คนเดียว RN,เจ๊คนเดียว RN,RNA,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,เจ้คนเดียว,เจ๊คนเดียว RN,เจ้คนเดียว,RNA,M,N,Y,N,N,N,Y
+C,C,WHANG,ซื้อ,นา,NA,RN,RN-หุ้น,RN,RNH,M,N,Y,N,N,N,Y
+C,C,WHANG,ซื้อ,นา,NA,RN,RN-หุ้น,RN,RNH,M,N,Y,N,N,N,Y
+C,C,WHANG,รายการ RN,นา,NA,RN,RN-หุ้น,RN,RNH,T,N,N,N,Y,,Y
+C,C,WHANG,รายการ RN,นา,NA,RN,RN-หุ้น,RN,RNH,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,RN,RN-หุ้น,RN,RNH,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,RN,RN-หุ้น,RN,RNH,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,RN,RN-หุ้น,RN,RNH,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,RN,RN-หุ้น,RN,RNH,M,N,Y,N,N,N,Y
+C,P,WHANG,รายการ RN,นา,NA,RN โป๊ว แตง,เปิ้ิ้ลโป๊วแตง,RN โป๊ว แตง,RNT,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,รจนา,รจนา,รจนา,RODSUT,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,N,N,N,Y,,Y
+C,C,WHANG,แมม,นา,NA,R รัตน์,R-รัตน์,R รัตน์,RRUT,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,พี่เรือน,พี่เรือน,พี่เรือน,RUEN,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,รุจ,รุจน์,รุจ,RUJ,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,รุจน์,รุจน์,รุจน์,RUJ,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,รุจน์,รุจน์,รุจน์,RUJ,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,รุณ,รุณ,รุณ,RUUN,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,สาวขวัญ,สาวขวัญ,สาวขวัญ,SAOKWAN,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,สาวส้ม .ม,สาวส้ม-ม,สาวส้ม .ม,SAOSOM,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,สมชาย,เฮียสมชาย,สมชาย,SC,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,พี่สี,สี,พี่สี,SE,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,สี,สี,สี,SE,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,เซิ่น,เซิ่น,เซิ่น,SERN,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,Sert,เฮียเสริฐ,Sert,SERT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,SERT,เฮียเสริฐ,SERT,SERT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Sert Web,เฮียเสริฐ,Sert Web,SERT,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,เฮียเสริฐ,เฮียเสริฐ,เฮียเสริฐ,SERT,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,สมชัยเพื่อนเฮีย,สมชายเพื่อนเฮีย,สมชัยเพื่อนเฮีย,SOMCHAI,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,somchai web,สมชายเพื่อนเฮีย,somchai web,SOMCHAI,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,สมชาย web,สมชายเพื่อนเฮีย,สมชาย web,SOMCHAI,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,สมชัย,สมชายเพื่อนเฮีย,สมชัย,SOMCHAI,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,สมชัยเพื่อนเฮีย,สมชายเพื่อนเฮีย,สมชัยเพื่อนเฮีย,SOMCHAI,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Somchai,สมชายเพื่อนเฮีย,Somchai,SOMCHAI,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,สมชาย,สมชายเพื่อนเฮีย,สมชาย,SOMCHAI,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,เฮียสมชาย,สมชายเพื่อนเฮีย,เฮียสมชาย,SOMCHAI,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,สมชัย,สมชายเพื่อนเฮีย,สมชัย,SOMCHAI,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,สุพิศ,สุพิศ,สุพิศ,SP,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,สุพิศ,สุพิศ,สุพิศ,SP,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,สุพิศ / SP,สุพิศ,สุพิศ / SP,SP,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,สุดใจ,สุดใจ,สุดใจ,SUT,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,สุดใจ / SUT,สุดใจ,สุดใจ / SUT,SUT,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,SUTCLOSE,สุดใจ,SUTCLOSE,SUT,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,สุดใจ,สุดใจ,สุดใจ,SUT,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,สุดใจ,สุดใจ,สุดใจ,SUT,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,สุดใจ,สุดใจ,สุดใจ,SUT,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,สุดใจ / SUT,สุดใจ,สุดใจ / SUT,SUT,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,ทราย,ทราย-บัว,ทราย,T01,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,ทราย,ทราย-บัว,ทราย,T01,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ทราย,ทราย-บัว,ทราย,T01,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,ทราย บัว,ทราย-บัว,ทราย บัว,T01,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,ทราย,ทราย-บัว,ทราย,T01,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ทราย,ทราย-บัว,ทราย,T01,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,แต้,แต้,T12,T12,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,พี่แต้,แต้,พี่แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,แต้,แต้,แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,พี่แต้,แต้,พี่แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,แต้,แต้,T12,T12,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,แต้,แต้,แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,แต้,แต้,แต้,T12,T,N,N,N,Y,,Y
+C,C,WHANG,หน่อย,นา,NA,แต้,แต้,แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,แต้,แต้,T12,T12,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,แต้,แต้,แต้,T12,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,ปุ่ย.ม,ปุ่ย-ม,ปุ่ย.ม,T13,M,N,Y,N,N,N,Y
+C,C,WHANG,อ,นา,NA,ปุ่ย.ม,ปุ่ย-ม,ปุ่ย.ม,T13,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ปุ๋ย,ปุ่ย-ม,ปุ๋ย,T13,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ปุ๋ย พ.น.ง,ปุ่ย-ม,ปุ๋ย พ.น.ง,T13,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,ปุ๋ย.ม,ปุ่ย-ม,ปุ๋ย.ม,T13,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,T15,T15,T15,T15,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,T15,T15,T15,T15,M,N,Y,N,N,N,Y
+C,C,WHANG,จิ้น,นา,NA,T15,T15,T15,T15,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,T15,T15,T15,T15,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,T17,T17,T17,T17,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,T17,T17,T17,T17,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,T17,T17,T17,T17,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,T17,T17,T17,T17,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,T17,T17,T17,T17,M,Y,N,N,N,Y,N
+C,C,WHANG,WEB,นา,NA,ต้อย,ต้อย,ต้อย,T25,T,N,N,Y,N,Y,
+C,C,WHANG,นู,นา,NA,ต้อย,ต้อย,ต้อย,T25,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ต้อย,ต้อย,ต้อย,T25,M,Y,N,N,N,Y,N
+C,C,WHANG,เล็ก,นา,NA,ต้อย,ต้อย,ต้อย,T25,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,ต๊ะ,ต๊ะ,ต๊ะ,TA,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,นก/บอย,ตาล,นก/บอย,TAA,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,นก กทม,ตาล,นก กทม,TAA,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,ตาล,ตาล,ตาล,TAA,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,พี่ธรรม,ธรรม,พี่ธรรม,TAM,T,N,N,N,Y,,Y
+C,C,WHANG,ตี๊,นา,NA,พี่ธรรม,ธรรม,พี่ธรรม,TAM,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,ตา อุดร,ตา-อุดร,ตา อุดร,TAU,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,ธีร์.ม,ธีร์-ม,ธีร์.ม,TEE,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,ธี,ธีร์-ม,ธี,TEE,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,ธีร์.ม,ธีร์-ม,ธีร์.ม,TEE,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,เทม,เทม-แนน,เทม,THAME,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,เทม แนน,เทม-แนน,เทม แนน,THAME,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,แต๊ง รัตภูมิ,แต๊ง-รัตภูมิ,แต๊ง รัตภูมิ,THXR,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ติ๋ม กทม,ติ๋ม-กทม,ติ๋ม กทม,TIMGTM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ติ๋ม โป้ง,ตื๋ม-โป้ง,ติ๋ม โป้ง,TIMPONG,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ตื๋ม โป้ง,ตื๋ม-โป้ง,ตื๋ม โป้ง,TIMPONG,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,ทะเลไทย,ทะเลไทย,ทะเลไทย,TLT,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,TOOK,TOOK,TOOK,TOOK,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,TOOK,TOOK,TOOK,TOOK,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,TOOK,TOOK,TOOK,TOOK,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,TOOK,TOOK,TOOK,TOOK,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ทราย,ทรายโตโยต้า,ทราย,TOYOTA,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,ทราย .ม,ทรายโตโยต้า,ทราย .ม,TOYOTA,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ทราย ม.,ทรายโตโยต้า,ทราย ม.,TOYOTA,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,ทรายโตโยต้า,ทรายโตโยต้า,ทรายโตโย้,TOYOTA,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,ตั๊ก AGENT,ตั๊ก-พนง,ตั๊ก AGENT,TUK,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,ตั๊ก พนง.,ตั๊ก-พนง,ตั๊ก พนง.,TUK,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,ตั๊ก web,ตั๊ก-พนง,ตั๊ก web,TUK,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ตั๊ก พนง.,ตั๊ก-พนง,ตั๊ก พนง.,TUK,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ตั๊ก พ.น.ง,ตั๊ก-พนง,ตั๊ก พ.น.ง,TUK,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ตั๊ก,ตั๊ก-พนง,ตั๊ก,TUK,M,Y,N,N,N,Y,N
+C,C,WHANG,ชาติ,นา,NA,พี่ตา,ตา-พนง,พี่ตา,TUKTA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ตา พนง,ตา-พนง,ตา พนง,TUKTA,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่ตา,ตา-พนง,พี่ตา,TUKTA,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ทุม,ทุม,ทุม,TUM,T,N,N,N,Y,,Y
+C,C,WHANG,ตี๊,นา,NA,ทุม,ทุม,ทุม,TUM,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,ตู่ กทม,ตู่แพร่,ตู่ กทม,TUP,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,ตู่ แพร่,ตู่แพร่,ตู่ แพร่,TUP,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ตู่ กทม,ตู่แพร่,ตู่ กทม,TUP,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,ตู่แพร่,ตู่แพร่,ตู่แพร่,TUP,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,Nui UK,หนุ่ย-UK,Nui UK,UK,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,หนุ่ย,หนุ่ย-UK,UK,UK,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,หนุ่ย / UK,หนุ่ย-UK,หนุ่ย / UK,UK,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,หนุ่ย UK,หนุ่ย-UK,หนุ่ย UK,UK,M,N,Y,N,N,N,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,NUI,หนุ่ย-UK,NUI,UK,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,Nui,หนุ่ย-UK,Nui,UK,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,UK,หนุ่ย-UK,UK,UK,T,N,N,N,Y,,Y
+P,P,WHANG,รายการโป๊ว,นา,NA,หนุ่ย,หนุ่ย-UK,หนุ่ย,UK,T,N,N,N,Y,,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,หนุ่ยหุ้น,หนุ่ย-UK,หนุ่ยหุ้น,UK,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,หนุ่ย,หนุ่ย-UK,UK,UK,T,N,N,N,Y,,Y
+C,C,WHANG,แต๋ว,นา,NA,หนุ่ย / UK,หนุ่ย-UK,หนุ่ย / UK,UK,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,หนุ่ย,หนุ่ย-UK,หนุ่ย,UK,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,หนุ่ย-โป๊ว,หนุ่ย-UK,หนุ่ย-โป๊ว,UK,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,อุทัย,อุทัย,อุทัย,UT,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,อุทัย / UT,อุทัย,อุทัย / UT,UT,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Vasana,วาสนา,Vasana,V,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,วาสนา,วาสนา,วาสนา,V,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,วาสนา,วาสนา,V,V,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,วาสนา,วาสนา,วาสนา,V,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,วาสนา / V,วาสนา,วาสนา / V,V,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,วาสนา,วาสนา,วาสนา,V,M,Y,N,N,N,Y,N
+C,C,WHANG,ตั๊ก,นา,NA,VH,VH,VH,VH,T,N,N,N,Y,,Y
+C,C,WHANG,กิ่ง,นา,NA,วิ,วิ,วิ,VI,T,N,N,N,Y,,Y
+C,C,WHANG,จิ้น,นา,NA,วิ,วิ,วิ,VI,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,V ลี่,V-ลี่,V ลี่,VL,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,Vนวล,V-นวล,Vนวล,VN,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,V - นวล,V-นวล,V - นวล,VN,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,v-นวล,V-นวล,v-นวล,VN,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,อโนรัต,อโนรัตน์,อโนรัต,VO,T,N,N,Y,N,Y,
+C,C,WHANG,ชาติ,นา,NA,อโนรัตน์,อโนรัตน์,VO,VO,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,อโนรัตน์,อโนรัตน์,อโนรัตน์,VO,M,N,Y,N,N,N,Y
+C,C,WHANG,ชาติ,นา,NA,อโนรัตน์ / VO,อโนรัตน์,อโนรัตน์ / VO,VO,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,Vไพลิน,V-ไพลิน,Vไพลิน,VP,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ไพลิน,V-ไพลิน,ไพลิน,VP,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,V โส้,V-โส้,V โส้,VSO,T,N,N,Y,N,Y,
+C,C,WHANG,WEB,นา,NA,Vasana โซ้,V-โส้,Vasana โซ้,VSO,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,โส้-วาสนา,V-โส้,โส้-วาสนา,VSO,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,โส้-วาสนา,V-โส้,โส้-วาสนา,VSO,M,Y,N,N,N,Y,N
+C,C,WHANG,ตั๊ก,นา,NA,Vสุ,V-สุ,Vสุ,VSU,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,V TIM,V-ติ๋ม,V TIM,VT,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,V ติ๋ม,V-ติ๋ม,V ติ๋ม,VT,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,Vติ๋ม,V-ติ๋ม,Vติ๋ม,VT,T,N,N,N,Y,,Y
+C,C,WHANG,ชิง,นา,NA,วาทินี,วาทินี-ม,วาทินี,VTN,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,วาทินี .ม,วาทินี-ม,วาทินี .ม,VTN,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,V หยก,V-หยก,V หยก,VY,T,N,N,Y,N,Y,
+C,C,WHANG,ตั๊ก,นา,NA,V หยก,V-หยก,V หยก,VY,T,N,N,N,Y,,Y
+C,C,WHANG,ชาติ,นา,NA,วัฒน์-เว็ป,วัฒน์,วัฒน์-เว็ป,WAT,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,วัฒน์,วัฒน์,วัฒน์,WAT,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,วัฒน์,วัฒน์,วัฒน์,WAT,M,Y,N,N,N,Y,N
+C,C,WHANG,แต๋ว,นา,NA,รัตน์ / RR,X-RR,รัตน์ / RR,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,RR,X-RR,RR,XRR,T,N,N,Y,N,Y,
+C,C,WHANG,บัว,นา,NA,RR,X-RR,RR,XRR,T,N,N,N,Y,,Y
+C,C,WHANG,บัว,นา,NA,RR,X-RR,RR,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,นารีรัตน์,X-RR,นารีรัตน์,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,นารีรัตน์ / RR,X-RR,นารีรัตน์ / RR,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เอ็ก / X,X-RR,เอ็ก / X,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,เอ๊กซ์,X-RR,เอ๊กซ์,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,RR,X-RR,RR,XRR,M,Y,N,N,N,Y,N
+C,C,WHANG,หน้าเว็ป,นา,NA,เอ็กซ์,X-RR,เอ็กซ์,XRR,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,1 % กุ้ง,XRR,1 % กุ้ง,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,2 % กุ้ง,XRR,2 % กุ้ง,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,COMMISSION,COMMISSION,2 % น้อง,XRR,2 % น้อง,XRR,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ญารมณ์,ญารมณ์,/YA,YA,M,N,Y,N,N,N,Y
+C,C,WHANG,แต๋ว,นา,NA,ญารมณ์,ญารมณ์,ญารมณ์,YA,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,ยา กทม.,ยา-กทม,ยา กทม.,YAGTM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่ยา ก.ท.ม,ยา-กทม,พี่ยา ก.ท.ม,YAGTM,M,N,Y,N,N,N,Y
+C,C,WHANG,ตั๊ก,นา,NA,พี่ใย,พี่ใย,พี่ใย,YAI,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,YP3,YP3,YP3,YP3,T,N,N,Y,N,Y,
+C,C,WHANG,นา,นา,NA,YP3,YP3,YP3,YP3,T,N,N,N,Y,,Y
+C,C,WHANG,นา,นา,NA,YP3.ยุพิน,YP3,YP3.ยุพิน,YP3,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,YP3.ยุพิน,YP3,YP3.ยุพิน,YP3,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,YP3,YP3,YP3,YP3,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,พี่ยุ กทม,พี่ยุ-กทม,พี่ยุ กทม,YUGTM,T,N,N,N,Y,,Y
+C,C,WHANG,ตั๊ก,นา,NA,ยู้/ต.,เจ้ยู้-ต,ยู้/ต.,YUT,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,แมว .ม,แมว-ม,แมว .ม,YY02,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,เพลิน,เพลิน,เพลิน,YY16,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,N,Y,N,N,N,Y
+C,C,WHANG,อ,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,พรทิพย์,พรทิพย์,พรทิพย์,YY28,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,ออนต้า,ออนต้า,ออนต้า,YY35,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยเล็ก,นา,NA,ออนต้า,ออนต้า,ออนต้า,YY35,M,N,Y,N,N,N,Y
+C,C,WHANG,ชิง,นา,NA,เดือน.ม,เดือน-ม,เดือน.ม,YY36,M,N,Y,N,N,N,Y
+C,C,WHANG,อ,นา,NA,เดือน.ม,เดือน-ม,เดือน.ม,YY36,M,N,Y,N,N,N,Y
+C,C,WHANG,หน่อย,นา,NA,กบ .ม,กบ-ม,กบ .ม,YY40,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,กบ,กบ-ม,กบ,YY40,M,Y,N,N,N,Y,N
+C,C,WHANG,ชิง,นา,NA,จิ้ง.ม,จิ้ง-ม,จิ้ง.ม,YY46,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,จิ้ง,จิ้ง-ม,จิ้ง,YY46,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,จิ้ง .ม,จิ้ง-ม,จิ้ง .ม,YY46,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,จิ้ง ม.,จิ้ง-ม,จิ้ง ม.,YY46,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,แบงค์.ม,แบงค์-ม,แบงค์.ม,YY49,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,แบงค์,แบงค์-ม,แบงค์,YY49,M,N,Y,N,N,N,Y
+C,C,WHANG,ตี้,นา,NA,แบงค์.ม,แบงค์-ม,แบงค์.ม,YY49,M,N,Y,N,N,N,Y
+C,C,WHANG,พี่นา,นา,NA,กิ๊ฟซี่ .ม,กิ๊ฟซี่-ม,กิ๊ฟซี่ .ม,YY63,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,กิ๊ป ม.,กิ๊ฟซี่-ม,กิ๊ป ม.,YY63,M,Y,N,N,N,Y,N
+C,C,WHANG,แมม,นา,NA,กิ๊ฟซี่,กิ๊ฟซี่-ม,กิ๊ฟซี่,YY63,M,N,Y,N,N,N,Y
+C,C,WHANG,แมม,นา,NA,กิ๊ฟซี่ .ม,กิ๊ฟซี่-ม,กิ๊ฟซี่ .ม,YY63,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,อวบ,อวบ-ม,อวบ,YY66,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,อวบ .ม,อวบ-ม,อวบ .ม,YY66,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,อวบ.ม,อวบ-ม,อวบ.ม,YY66,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ออบ .ม,ออย-ม,ออบ .ม,YY67,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ออย .ม,ออย-ม,ออย .ม,YY67,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,ออย.ม,ออย-ม,ออย.ม,YY67,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ออย,ออย-ม,ออย,YY67,M,N,Y,N,N,N,Y
+C,C,WHANG,บัว,นา,NA,ออย ม.,ออย-ม,ออย ม.,YY67,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,วรรณ .ม,วรรณ-ม,วรรณ .ม,YY68,M,N,Y,N,N,N,Y
+C,C,WHANG,กิ่ง,นา,NA,วรรณ.ม,วรรณ-ม,วรรณ.ม,YY68,M,N,Y,N,N,N,Y
+C,C,WHANG,หมู,นา,NA,Z8,Z08,Z8,Z08,T,N,N,N,Y,,Y
+C,C,WHANG,หมู,นา,NA,Z8,Z08,Z8,Z08,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,Z9,Z09,Z9,Z09,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยเล็ก,นา,NA,Z9,Z09,Z9,Z09,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,Z9,Z09,Z9,Z09,M,N,Y,N,N,N,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,Z10,Z10,Z10,Z10,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยใหญ่,นา,NA,Z10,Z10,Z10,Z10,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Z11,Z11,Z11,Z11,T,N,N,Y,N,Y,
+C,C,WHANG,เล็ก,นา,NA,Z11,Z11,Z11,Z11,T,N,N,N,Y,,Y
+C,C,WHANG,เล็ก,นา,NA,Z11,Z11,Z11,Z11,M,N,Y,N,N,N,Y
+C,C,WHANG,หน้าเว็ป,นา,NA,Z11,Z11,Z11,Z11,M,Y,N,N,N,Y,N
+C,C,WHANG,บัว,นา,NA,Z13,Z13,Z13,Z13,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Z13,Z13,Z13,Z13,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,Z13,Z13,Z13,Z13,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยเล็ก,นา,NA,Z13,Z13,Z13,Z13,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,Z13,Z13,Z13,Z13,M,N,Y,N,N,N,Y
+C,C,WHANG,WEB,นา,NA,Z14,Z14,Z14,Z14,T,N,N,Y,N,Y,
+C,C,WHANG,หมวยเล็ก,นา,NA,Z14,Z14,Z14,Z14,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,Z14,Z14,Z14,Z14,M,N,Y,N,N,N,Y
+C,C,WHANG,นา,นา,NA,Z15,Z15,Z15,Z15,T,N,N,N,Y,,Y
+C,C,WHANG,WEB,นา,NA,Z15,Z15,Z15,Z15,T,N,N,Y,N,Y,
+C,C,WHANG,หน้าเว็ป,นา,NA,Z15,Z15,Z15,Z15,M,Y,N,N,N,Y,N
+C,C,WHANG,หมวยเล็ก,นา,NA,Z15,Z15,Z15,Z15,T,N,N,N,Y,,Y
+C,C,WHANG,หมวยเล็ก,นา,NA,Z15,Z15,Z15,Z15,M,N,Y,N,N,N,Y

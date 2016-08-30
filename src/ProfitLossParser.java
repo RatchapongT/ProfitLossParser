@@ -156,9 +156,13 @@ public class ProfitLossParser {
                                         }
                                         if (mode.equals("Partner") && partnerMode) {
                                             if (!(externalPartyNickname.equals("") && externalPartyUsername.equals(""))) {
-                                                if (!externalPartyNickname.equals("ปีนังเงินไทย")) {
+                                                if (externalPartyNickname.equals("ปีนัง")) {
+                                                    rows.add("P, " + date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + (moneyIn / 8.4) + ", " + (moneyOut / 8.4) + ", " + type + "\n");
+                                                } else if (!externalPartyNickname.equals("ปีนังเงินไทย")) {
                                                     rows.add("P, " + date + ", " + managerNickname + ", " + workerNickname + ", " + number + ", " + externalPartyNickname + ", " + externalPartyUsername + ", " + moneyIn + ", " + moneyOut + ", " + type + "\n");
                                                 }
+
+
                                             }
                                         }
                                     } catch (Exception ioe) {

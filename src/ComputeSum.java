@@ -48,19 +48,22 @@ public class ComputeSum {
             this.RNMoneyOut = RNMoneyOut;
         }
     }
+
     Set<String> globalCustomerSet = new HashSet<>();
     Set<String> globalPartnerSet = new HashSet<>();
     Set<String> globalWorkerSet = new HashSet<>();
     Set<String> globalManagerSet = new HashSet<>();
     Map<String, Set<String>> globalExternalPartyOwner = new HashMap<>();
+
     public static void main(String[] args) {
-        check("Thai");
-        check("Malay");
+        //check("Thai");
+        //check("Malay");
+        checkGeneral();
     }
 
-    static String queryDate = "2016-05-31";
-    static boolean queryMode = false;
-    static String includeMode = "Whang ";
+    static String queryDate = "2016-02-02";
+    static boolean queryMode = true;
+    static String includeMode = "Whang Muay";
 
 
     public static void check(String mode) {
@@ -104,6 +107,10 @@ public class ComputeSum {
                 if (!map2.containsKey(date)) {
                     map2.put(date, 0.0);
                 }
+                if (mode.equals("Thai") && queryMode && queryDate.equals(date)) {
+                    System.out.println("Partner\t" + externalNickname + "\t" + moneyOut + "\t" + moneyIn);
+                }
+
                 partnerSet.add(externalNickname + "\t" + externalUsername);
                 managerSet.add(manager);
                 workerSet.add(worker);
@@ -117,13 +124,17 @@ public class ComputeSum {
                     map.put(date, map.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
                 }
                 if (manager.equals("MalayP1")) {
-                    map1.put(date, map1.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
+                    if (externalNickname.indexOf("Ringgit") > -1 || externalNickname.indexOf("ปีนัง") > -1) {
+                        map1.put(date, map1.get(date) + (Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut)) * 8.4);
+                    } else {
+                        map1.put(date, map1.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
+                    }
                     if (queryMode && queryDate.equals(date) && includeMode.indexOf("Whang") > -1) {
                         System.out.println("1-Partner\t" + externalNickname + "\t" + moneyOut + "\t" + moneyIn);
                     }
                 }
                 if (manager.equals("MalayP2")) {
-                    if (externalNickname.indexOf("Ringgit") > -1) {
+                    if (externalNickname.indexOf("Ringgit") > -1 || externalNickname.indexOf("ปีนัง") > -1) {
                         map2.put(date, map2.get(date) + (Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut)) * 8.4);
                     } else {
                         map2.put(date, map2.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
@@ -153,6 +164,9 @@ public class ComputeSum {
                 workerSet.add(worker);
                 if (!externalPartyOwner.containsKey(externalNickname + "\t" + externalUsername)) {
                     externalPartyOwner.put(externalNickname + "\t" + externalUsername, new HashSet<>());
+                }
+                if (mode.equals("Thai") && queryMode && queryDate.equals(date)) {
+                    System.out.println("Customer\t" + externalNickname + "\t" + moneyIn + "\t" + moneyOut);
                 }
                 externalPartyOwner.get(externalNickname + "\t" + externalUsername).add(worker);
                 if (!map.containsKey(date)) {
@@ -208,7 +222,7 @@ public class ComputeSum {
                             }
                             RNPMap1.get(date).RNMoneyIn = RNPMap1.get(date).RNMoneyIn + Double.parseDouble(moneyIn);
                             RNPMap1.get(date).RNMoneyOut = RNPMap1.get(date).RNMoneyOut + Double.parseDouble(moneyOut);
-                        } else if (externalNickname.equals("RNP")) {
+                        } else if (externalNickname.equals("RN")) {
                             if (!RNPMap1.containsKey(date)) {
                                 RNPMap1.put(date, new RNP(0.0, 0.0, 0.0, 0.0));
                             }
@@ -230,7 +244,7 @@ public class ComputeSum {
                             }
                             RNPMap2.get(date).RNMoneyIn = RNPMap2.get(date).RNMoneyIn + Double.parseDouble(moneyIn);
                             RNPMap2.get(date).RNMoneyOut = RNPMap2.get(date).RNMoneyOut + Double.parseDouble(moneyOut);
-                        } else if (externalNickname.equals("RNP")) {
+                        } else if (externalNickname.equals("RN")) {
                             if (!RNPMap2.containsKey(date)) {
                                 RNPMap2.put(date, new RNP(0.0, 0.0, 0.0, 0.0));
                             }
@@ -240,7 +254,7 @@ public class ComputeSum {
                             map2.put(date, map2.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
                             map.put(date, map.get(date) + Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut));
                         } else {
-                            if (externalNickname.indexOf("Ringgit") > -1) {
+                            if (externalNickname.indexOf("Ringgit") > -1 || externalNickname.indexOf("ปีนัง") > -1) {
                                 map2.put(date, map2.get(date) + (Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut)) * 8.4);
                                 map.put(date, map.get(date) + (Double.parseDouble(moneyIn) - Double.parseDouble(moneyOut)) * 8.4);
                             } else {
@@ -280,17 +294,17 @@ public class ComputeSum {
             }
             List<String> list = new ArrayList<>(map.keySet());
             Collections.sort(list);
-            if (mode.equals("Malay")) {
-                if (!queryMode) {
-                    System.out.println("DATE" + "\t" + "WHANG" + "\t" + "MAUY" + "\t" + "ALL w/o RN" + "\t" + "WHANG RN" + "\t" + "MUAY RN" + "\t" + "ALL w/ RN");
-                }
-            }
-            for (String date : list) {
-                if (!queryMode || queryDate.equals(date)) {
-                    System.out.println(date + "\t" + map1.get(date) + "\t" + map2.get(date) + "\t" + map.get(date) + "\t" + rn1.get(date) + "\t" + rn2.get(date) + "\t" +
-                            (rn2.get(date) + rn1.get(date) + map.get(date)));
-                }
-            }
+//            if (mode.equals("Malay")) {
+//                if (!queryMode) {
+//                    System.out.println("DATE" + "\t" + "WHANG" + "\t" + "MAUY" + "\t" + "ALL w/o RN" + "\t" + "WHANG RN" + "\t" + "MUAY RN" + "\t" + "ALL w/ RN");
+//                }
+//            }
+//            for (String date : list) {
+//                if (!queryMode || queryDate.equals(date)) {
+//                    System.out.println(date + "\t" + map1.get(date) + "\t" + map2.get(date) + "\t" + map.get(date) + "\t" + rn1.get(date) + "\t" + rn2.get(date) + "\t" +
+//                            (rn2.get(date) + rn1.get(date) + map.get(date)));
+//                }
+//            }
             List<String> partnerList = new ArrayList<>(partnerSet);
             List<String> customerList = new ArrayList<>(customerSet);
             List<String> managerList = new ArrayList<>(managerSet);
@@ -327,6 +341,141 @@ public class ComputeSum {
             Set<String> globalManagerSet = new HashSet<>();
             Map<String, Set<String>> globalExternalPartyOwner = new HashMap<>();
 
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void checkGeneral() {
+        Map<String, Double> thaiMap = new HashMap<>();
+        Map<String, Double> malayMap = new HashMap<>();
+        Map<String, Double> malayMUAYMap = new HashMap<>();
+        Map<String, Double> malayWHANGMap = new HashMap<>();
+        Map<String, Double> rn1 = new HashMap<>();
+        Map<String, Double> rn2 = new HashMap<>();
+
+        Map<String, RNP> RNPMap1 = new HashMap<>();
+        Map<String, RNP> RNPMap2 = new HashMap<>();
+        try {
+            String sCurrentLine;
+            BufferedReader bufferedReader = new BufferedReader(new FileReader("./Output/PLInfoSanitized.txt"));
+            while ((sCurrentLine = bufferedReader.readLine()) != null) {
+                String[] newData = sCurrentLine.split(",");
+                String newMode = newData[0].trim();
+                String[] dates = newData[1].trim().split("-");
+                String date = dates[2] + "-" + dates[1] + "-" + dates[0];
+                String newManager = newData[2].trim();
+                String newWorkerNickname = newData[3].trim();
+                String newWorkerUsername = newData[4].trim();
+                String newExternalPartyNickname = newData[5].trim();
+                String newExternalPartyUsername = newData[6].trim();
+                double moneyIn = Double.parseDouble(newData[7].trim());
+                double moneyOut = Double.parseDouble(newData[8].trim());
+
+
+                String type = newData[9].trim();
+                if (type.equals("M")) {
+                    if (!malayMap.containsKey(date)) {
+                        malayMap.put(date, 0.0);
+                    }
+                    if (!malayMUAYMap.containsKey(date)) {
+                        malayMUAYMap.put(date, 0.0);
+                    }
+                    if (!malayWHANGMap.containsKey(date)) {
+                        malayWHANGMap.put(date, 0.0);
+                    }
+                    if (!rn1.containsKey(date)) {
+                        rn1.put(date, 0.0);
+                    }
+                    if (!rn2.containsKey(date)) {
+                        rn2.put(date, 0.0);
+                    }
+                    if (newExternalPartyUsername.indexOf("JESSY") > -1) {
+                        malayMap.put(date, malayMap.get(date) + (moneyIn - moneyOut) * 8.4);
+                        if (newManager.equals("WHANG")) {
+                            malayWHANGMap.put(date, malayWHANGMap.get(date) + (moneyIn - moneyOut) * 8.4);
+                        }
+                        if (newManager.equals("MUAY")) {
+                            malayMUAYMap.put(date, malayMUAYMap.get(date) + (moneyIn - moneyOut) * 8.4);
+                        }
+//                    } else if (newExternalPartyUsername.equals("RNH") || newExternalPartyUsername.equals("RN")) {
+//                        if (newManager.equals("WHANG")) {
+//                            if (!RNPMap1.containsKey(date)) {
+//                                RNPMap1.put(date, new RNP(0.0, 0.0, 0.0, 0.0));
+//                            }
+//                            if (newExternalPartyUsername.equals("RNH")) {
+//                                RNPMap1.get(date).RNMoneyIn = RNPMap1.get(date).RNMoneyIn + moneyIn;
+//                                RNPMap1.get(date).RNMoneyOut = RNPMap1.get(date).RNMoneyOut + moneyOut;
+//                            }
+//                            if (newExternalPartyUsername.equals("RN")) {
+//                                RNPMap1.get(date).RNPIn = RNPMap1.get(date).RNPIn + moneyIn;
+//                                RNPMap1.get(date).RNPOut = RNPMap1.get(date).RNPOut + moneyOut;
+//                                malayWHANGMap.put(date, malayWHANGMap.get(date) + moneyIn - moneyOut);
+//                                malayMap.put(date, malayMap.get(date) + moneyIn - moneyOut);
+//                            }
+//                        }
+//                        if (newManager.equals("MUAY")) {
+//                            if (newExternalPartyUsername.equals("RNH")) {
+//                                RNPMap2.get(date).RNMoneyIn = RNPMap2.get(date).RNMoneyIn + moneyIn;
+//                                RNPMap2.get(date).RNMoneyOut = RNPMap2.get(date).RNMoneyOut + moneyOut;
+//                            }
+//                            if (newExternalPartyUsername.equals("RN")) {
+//                                RNPMap2.get(date).RNPIn = RNPMap2.get(date).RNPIn + moneyIn;
+//                                RNPMap2.get(date).RNPOut = RNPMap2.get(date).RNPOut + moneyOut;
+//                                malayMUAYMap.put(date, malayMUAYMap.get(date) + moneyIn - moneyOut);
+//                                malayMap.put(date, malayMap.get(date) + moneyIn - moneyOut);
+//                            }
+//                        }
+                    } else {
+                        malayMap.put(date, malayMap.get(date) + moneyIn - moneyOut);
+                        if (newManager.equals("WHANG")) {
+                            malayWHANGMap.put(date, malayWHANGMap.get(date) + moneyIn - moneyOut);
+                        }
+                        if (newManager.equals("MUAY")) {
+                            malayMUAYMap.put(date, malayMUAYMap.get(date) + moneyIn - moneyOut);
+                        }
+                    }
+                }
+                if (type.equals("T")) {
+                    if (!thaiMap.containsKey(date)) {
+                        thaiMap.put(date, 0.0);
+                    }
+//                    thaiMap.put(date, thaiMap.get(date) + moneyIn - moneyOut);
+//                    if ((newExternalPartyUsername.equals("RNH") && newMode.equals("C")) || (newExternalPartyUsername.equals("RNT") && newMode.equals("P"))) {
+//                        thaiMap.put(date, thaiMap.get(date) + (moneyIn - moneyOut) * 0.3);
+//                    } else {
+                        thaiMap.put(date, thaiMap.get(date) + moneyIn - moneyOut);
+//                    }
+                }
+            }
+            for (String date : RNPMap1.keySet()) {
+                RNP rnp = RNPMap1.get(date);
+                double moneyIn = (rnp.RNMoneyIn - rnp.RNPIn) / 2.0;
+                double moneyOut = (rnp.RNMoneyOut - rnp.RNPOut) / 2.0;
+                rn1.put(date, rn1.get(date) + moneyIn - moneyOut);
+            }
+            for (String date : RNPMap2.keySet()) {
+                RNP rnp = RNPMap2.get(date);
+                double moneyIn = (rnp.RNMoneyIn - rnp.RNPIn) / 2.0;
+                double moneyOut = (rnp.RNMoneyOut - rnp.RNPOut) / 2.0;
+                rn2.put(date, rn2.get(date) + moneyIn - moneyOut);
+            }
+            System.out.println("---------------THAI------------------");
+            List<String> list = new ArrayList<>(thaiMap.keySet());
+            Collections.sort(list);
+            for (String date : list) {
+                System.out.println(date + "\t" + thaiMap.get(date));
+            }
+            System.out.println("---------------MALAY------------------");
+            list = new ArrayList<>(malayMap.keySet());
+            Collections.sort(list);
+            for (String date : list) {
+                System.out.println(date + "\t" + malayWHANGMap.get(date) + "\t" + malayMUAYMap.get(date) + "\t" + malayMap.get(date) + "\t" + rn1.get(date) + "\t" + rn2.get(date) + "\t" +
+                        (rn2.get(date) + rn1.get(date) + malayMap.get(date)));
+            }
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
